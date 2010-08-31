@@ -1,0 +1,657 @@
+TKaToracker
+v7
+r0
+t303357897.582634
+cCheck dependencies
+cCompileC build/KaToracker.build/Release/KaToracker.build/Objects-normal/x86_64/main.o /Users/nistetsurooy/workspace/KaToracker/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004ABBF0FD00000000000000EE
+t1253830909
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/alloca.h
+c000000004A5C14A60000000000000588
+t1247548582
+s1416
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/assert.h
+c000000004A5C14A60000000000000DCB
+t1247548582
+s3531
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004A5C14A70000000000002DF5
+t1247548583
+s11765
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004A5C14A70000000000001731
+t1247548583
+s5937
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/unistd.h
+c000000004A5C14A7000000000000563E
+t1247548583
+s22078
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/emmintrin.h
+c000000004A11EB24000000000000EA8F
+t1242688292
+s60047
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/float.h
+c000000004A11EB240000000000001538
+t1242688292
+s5432
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/limits.h
+c000000004A11EB240000000000000C7E
+t1242688292
+s3198
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stddef.h
+c000000004A11EB240000000000003197
+t1242688292
+s12695
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdint.h
+c000000004A11EB24000000000000190C
+t1242688292
+s6412
+
+N/Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Release/KaToracker.build/Objects-normal/x86_64/KaToracker.LinkFileList
+c000000004C64A8400000000000000076
+t1281665088
+s118
+
+N/Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Release/KaToracker.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/nistetsurooy/workspace/KaToracker/build/Release/KaToracker
+t2
+s0
+
+N/Users/nistetsurooy/workspace/KaToracker/build/Release/KaToracker.dSYM
+t2
+s0
+
+N/Users/nistetsurooy/workspace/KaToracker/cv.h
+c000000004C64A7AB0000000000011ABF
+t1281664939
+s72383
+i<chdl.h>
+i"cxcore.h"
+i"cvtypes.h"
+i"cv.hpp"
+i"cvcompat.h"
+
+N/Users/nistetsurooy/workspace/KaToracker/cv.hpp
+c000000004C64A7AB000000000000B6EB
+t1281664939
+s46827
+
+N/Users/nistetsurooy/workspace/KaToracker/cvcompat.h
+c000000004C64A7AB0000000000009EF5
+t1281664939
+s40693
+i<string.h>
+
+N/Users/nistetsurooy/workspace/KaToracker/cvtypes.h
+c000000004C64A7AB0000000000002DD6
+t1281664939
+s11734
+i<assert.h>
+i<stdlib.h>
+
+N/Users/nistetsurooy/workspace/KaToracker/cvver.h
+c000000004C64A7AB00000000000009E6
+t1281664939
+s2534
+
+N/Users/nistetsurooy/workspace/KaToracker/cxcore.h
+c000000004C64A7AC0000000000013000
+t1281664940
+s77824
+i"ipl.h"
+i"ipl/ipl.h"
+i"cxtypes.h"
+i"cxerror.h"
+i"cvver.h"
+i"cxcore.hpp"
+
+N/Users/nistetsurooy/workspace/KaToracker/cxcore.hpp
+c000000004C64A7AC00000000000144B6
+t1281664940
+s83126
+i"cxmisc.h"
+i<algorithm>
+i<cmath>
+i<complex>
+i<map>
+i<new>
+i<string>
+i<vector>
+i"cxoperations.hpp"
+i"cxmat.hpp"
+i"cxflann.h"
+
+N/Users/nistetsurooy/workspace/KaToracker/cxerror.h
+c000000004C64A7AC000000000000222E
+t1281664940
+s8750
+
+N/Users/nistetsurooy/workspace/KaToracker/cxflann.h
+c000000004C64A7AC0000000000001B18
+t1281664940
+s6936
+
+N/Users/nistetsurooy/workspace/KaToracker/cxmat.hpp
+c000000004C64A7AC0000000000025643
+t1281664940
+s153155
+i<limits.h>
+
+N/Users/nistetsurooy/workspace/KaToracker/cxmisc.h
+c000000004C64A7AC0000000000006D43
+t1281664940
+s27971
+i<limits.h>
+i<malloc.h>
+i<alloca.h>
+i<stdlib.h>
+
+N/Users/nistetsurooy/workspace/KaToracker/cxoperations.hpp
+c000000004C64A7AC0000000000016097
+t1281664940
+s90263
+i<string.h>
+i<limits.h>
+i<ext/atomicity.h>
+i<bits/atomicity.h>
+i"windows.h"
+
+N/Users/nistetsurooy/workspace/KaToracker/cxtypes.h
+c000000004C64A7AC000000000000CF56
+t1281664940
+s53078
+i<assert.h>
+i<stdlib.h>
+i<string.h>
+i<float.h>
+i<stdint.h>
+i<intrin.h>
+i<emmintrin.h>
+i<fastmath.h>
+i<math.h>
+i<ipl.h>
+i<ipl/ipl.h>
+
+N/Users/nistetsurooy/workspace/KaToracker/highgui.h
+c000000004C64A7AC00000000000048A6
+t1281664940
+s18598
+i"cxcore.h"
+i<windows.h>
+i<chdl.h>
+i"highgui.hpp"
+
+N/Users/nistetsurooy/workspace/KaToracker/highgui.hpp
+c000000004C64A7AC00000000000012D7
+t1281664940
+s4823
+
+N/Users/nistetsurooy/workspace/KaToracker/main.cpp
+c000000004C64A8060000000000000245
+t1281665030
+s581
+i<iostream>
+i"cv.h"
+i"highgui.h"
+
+N/opt/local/include/boost/algorithm
+c000000004B92024600000000000000EE
+t1267860038
+s238
+
+N/opt/local/include/boost/algorithm/string
+c000000004B92024600000000000003B8
+t1267860038
+s952
+
+N/opt/local/include/boost/compatibility/cpp_c_headers/cmath
+c000000004B91FBAA000000000000026B
+t1267858346
+s619
+i<math.h>
+
+N/opt/local/include/boost/compatibility/cpp_c_headers/cstddef
+c000000004B91FBAA000000000000013B
+t1267858346
+s315
+i<stddef.h>
+
+N/opt/local/include/boost/compatibility/cpp_c_headers/cstdlib
+c000000004B91FBAA000000000000031C
+t1267858346
+s796
+i<stdlib.h>
+
+N/opt/local/include/boost/config.hpp
+c000000004B91F8F50000000000000802
+t1267857653
+s2050
+i<boost/config/select_compiler_config.hpp>
+i<boost/config/select_stdlib_config.hpp>
+i<boost/config/select_platform_config.hpp>
+i<boost/config/suffix.hpp>
+
+N/opt/local/include/boost/config/no_tr1/utility.hpp
+c000000004B91F9300000000000000356
+t1267857712
+s854
+i<utility>
+
+N/opt/local/include/boost/config/posix_features.hpp
+c000000004B91F8FC0000000000000E98
+t1267857660
+s3736
+i<unistd.h>
+
+N/opt/local/include/boost/config/select_compiler_config.hpp
+c000000004B91F8FC0000000000000E9A
+t1267857660
+s3738
+
+N/opt/local/include/boost/config/select_platform_config.hpp
+c000000004B91F8FC0000000000000B50
+t1267857660
+s2896
+i<boost/config/posix_features.hpp>
+
+N/opt/local/include/boost/config/select_stdlib_config.hpp
+c000000004B91F8FC0000000000000B07
+t1267857660
+s2823
+i<cstddef>
+i<boost/config/no_tr1/utility.hpp>
+
+N/opt/local/include/boost/config/suffix.hpp
+c000000004B91F8FC0000000000004A30
+t1267857660
+s18992
+i<limits.h>
+i<cstddef>
+i"boost/type.hpp"
+i"boost/non_type.hpp"
+
+N/opt/local/include/boost/math/complex
+c000000004B9202480000000000000154
+t1267860040
+s340
+
+N/opt/local/include/boost/mpl/map
+c000000004B9202480000000000000132
+t1267860040
+s306
+
+N/opt/local/include/boost/mpl/vector
+c000000004B92024800000000000001FE
+t1267860040
+s510
+
+N/opt/local/include/boost/non_type.hpp
+c000000004B91F8F6000000000000026B
+t1267857654
+s619
+
+N/opt/local/include/boost/tr1/detail/config.hpp
+c000000004B91FAEF0000000000001293
+t1267858159
+s4755
+i<cstddef>
+i<boost/config/no_tr1/utility.hpp>
+i<boost/config.hpp>
+
+N/opt/local/include/boost/tr1/detail/config_all.hpp
+c000000004B91FAEF00000000000015B6
+t1267858159
+s5558
+i<cstddef>
+i<cstdlib>
+i<boost/tr1/detail/config.hpp>
+
+N/opt/local/include/boost/tr1/tr1/iostream
+c000000004B91FBAB00000000000003B7
+t1267858347
+s951
+i<boost/tr1/detail/config_all.hpp>
+
+N/opt/local/include/boost/tr1/tr1/new
+c000000004B91FBAB0000000000000489
+t1267858347
+s1161
+i<boost/tr1/detail/config_all.hpp>
+
+N/opt/local/include/boost/type.hpp
+c000000004B91F8F800000000000001E1
+t1267857656
+s481
+
+N/opt/local/include/boost/utility
+c000000004B92024A00000000000001BA
+t1267860042
+s442
+
+N/usr/local/lib/libopencv_calib3d.2.1.1.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/local/lib/libopencv_calib3d.2.1.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/local/lib/libopencv_calib3d.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/local/lib/libopencv_contrib.2.1.1.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/local/lib/libopencv_contrib.2.1.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/local/lib/libopencv_contrib.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/local/lib/libopencv_core.2.1.1.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/local/lib/libopencv_core.2.1.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/local/lib/libopencv_core.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/local/lib/libopencv_features2d.2.1.1.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/local/lib/libopencv_features2d.2.1.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/local/lib/libopencv_features2d.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/local/lib/libopencv_gpu.2.1.1.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/local/lib/libopencv_gpu.2.1.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/local/lib/libopencv_gpu.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/local/lib/libopencv_highgui.2.1.1.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/local/lib/libopencv_highgui.2.1.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/local/lib/libopencv_highgui.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/local/lib/libopencv_imgproc.2.1.1.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/local/lib/libopencv_imgproc.2.1.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/local/lib/libopencv_imgproc.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/local/lib/libopencv_legacy.2.1.1.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/local/lib/libopencv_legacy.2.1.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/local/lib/libopencv_legacy.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/local/lib/libopencv_ml.2.1.1.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/local/lib/libopencv_ml.2.1.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/local/lib/libopencv_ml.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/local/lib/libopencv_objdetect.2.1.1.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/local/lib/libopencv_objdetect.2.1.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/local/lib/libopencv_objdetect.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/local/lib/libopencv_video.2.1.1.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/local/lib/libopencv_video.2.1.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/local/lib/libopencv_video.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/local/lib/libzinnia.0.dylib
+c000000004C1CD90F0000000000055838
+t1276958991
+s350264
+
+N/usr/local/lib/libzinnia.a
+c000000004C1CD90F0000000000075530
+t1276958991
+s480560
+
+N/usr/local/lib/libzinnia.dylib
+c000000004C1CD90F0000000000055838
+t1276958991
+s350264
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies303357886#303357888#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/KaToracker.build/Release/KaToracker.build/Objects-normal/x86_64/main.o /Users/nistetsurooy/workspace/KaToracker/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s303357888.104048
+e303357897.582481
+r0
+xCompileC
+xbuild/KaToracker.build/Release/KaToracker.build/Objects-normal/x86_64/main.o
+x/Users/nistetsurooy/workspace/KaToracker/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/iosfwd:45,
+o                 from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ios:43,
+o                 from /opt/local/include/boost/tr1/tr1/ios:18,
+o                 from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ostream:45,
+o                 from /opt/local/include/boost/tr1/tr1/ostream:18,
+o                 from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/iostream:45,
+o                 from /opt/local/include/boost/tr1/tr1/iostream:18,
+o                 from /Users/nistetsurooy/workspace/KaToracker/main.cpp:1:
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/i686-apple-darwin10/x86_64/bits/c++locale.h: In function 'int std::__convert_from_v(int* const&, char*, int, const char*, ...)':
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/i686-apple-darwin10/x86_64/bits/c++locale.h:80: error: 'vsnprintf' is not a member of 'std'
+oIn file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.h:45,
+o                 from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/basic_ios.h:44,
+o                 from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ios:50,
+o                 from /opt/local/include/boost/tr1/tr1/ios:18,
+o                 from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ostream:45,
+o                 from /opt/local/include/boost/tr1/tr1/ostream:18,
+o                 from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/iostream:45,
+o                 from /opt/local/include/boost/tr1/tr1/iostream:18,
+o                 from /Users/nistetsurooy/workspace/KaToracker/main.cpp:1:
+o/opt/local/include/boost/compatibility/cpp_c_headers/ctime: At global scope:
+o/opt/local/include/boost/compatibility/cpp_c_headers/ctime:12: error: '::clock_t' has not been declared
+o/opt/local/include/boost/compatibility/cpp_c_headers/ctime:15: error: '::asctime' has not been declared
+o/opt/local/include/boost/compatibility/cpp_c_headers/ctime:16: error: '::clock' has not been declared
+o/opt/local/include/boost/compatibility/cpp_c_headers/ctime:17: error: '::difftime' has not been declared
+o/opt/local/include/boost/compatibility/cpp_c_headers/ctime:18: error: '::localtime' has not been declared
+o/opt/local/include/boost/compatibility/cpp_c_headers/ctime:19: error: '::strftime' has not been declared
+o/opt/local/include/boost/compatibility/cpp_c_headers/ctime:20: error: '::ctime' has not been declared
+o/opt/local/include/boost/compatibility/cpp_c_headers/ctime:21: error: '::gmtime' has not been declared
+o/opt/local/include/boost/compatibility/cpp_c_headers/ctime:22: error: '::mktime' has not been declared
+o/opt/local/include/boost/compatibility/cpp_c_headers/ctime:23: error: '::time' has not been declared
+oIn file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/locale:46,
+o                 from /opt/local/include/boost/tr1/tr1/locale:18,
+o                 from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/ostream.tcc:46,
+o                 from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ostream:572,
+o                 from /opt/local/include/boost/tr1/tr1/ostream:18,
+o                 from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/iostream:45,
+o                 from /opt/local/include/boost/tr1/tr1/iostream:18,
+o                 from /Users/nistetsurooy/workspace/KaToracker/main.cpp:1:
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc: In member function '_InIter std::time_get<_CharT, _InIter>::_M_extract_via_format(_InIter, _InIter, std::ios_base&, std::_Ios_Iostate&, tm*, const _CharT*) const':
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc:1839: error: invalid use of incomplete type 'struct tm'
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/wchar.h:152: error: forward declaration of 'struct tm'
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc:1846: error: invalid use of incomplete type 'struct tm'
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/wchar.h:152: error: forward declaration of 'struct tm'
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc:1854: error: invalid use of incomplete type 'struct tm'
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/wchar.h:152: error: forward declaration of 'struct tm'
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc:1861: error: invalid use of incomplete type 'struct tm'
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/wchar.h:152: error: forward declaration of 'struct tm'
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc:1873: error: invalid use of incomplete type 'struct tm'
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/wchar.h:152: error: forward declaration of 'struct tm'
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc:1880: error: invalid use of incomplete type 'struct tm'
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/wchar.h:152: error: forward declaration of 'struct tm'
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc:1883: error: invalid use of incomplete type 'struct tm'
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/wchar.h:152: error: forward declaration of 'struct tm'
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc:1895: error: invalid use of incomplete type 'struct tm'
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/wchar.h:152: error: forward declaration of 'struct tm'
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc:1900: error: invalid use of incomplete type 'struct tm'
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/wchar.h:152: error: forward declaration of 'struct tm'
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc:1908: error: invalid use of incomplete type 'struct tm'
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/wchar.h:152: error: forward declaration of 'struct tm'
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc:1912: error: invalid use of incomplete type 'struct tm'
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/wchar.h:152: error: forward declaration of 'struct tm'
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc:1932: error: invalid use of incomplete type 'struct tm'
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/wchar.h:152: error: forward declaration of 'struct tm'
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc:1968: error: invalid use of incomplete type 'struct tm'
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/wchar.h:152: error: forward declaration of 'struct tm'
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc:1976: error: invalid use of incomplete type 'struct tm'
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/wchar.h:152: error: forward declaration of 'struct tm'
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc: In member function 'virtual _InIter std::time_get<_CharT, _InIter>::do_get_weekday(_InIter, _InIter, std::ios_base&, std::_Ios_Iostate&, tm*) const':
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc:2210: error: invalid use of incomplete type 'struct tm'
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/wchar.h:152: error: forward declaration of 'struct tm'
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc: In member function 'virtual _InIter std::time_get<_CharT, _InIter>::do_get_monthname(_InIter, _InIter, std::ios_base&, std::_Ios_Iostate&, tm*) const':
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc:2259: error: invalid use of incomplete type 'struct tm'
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/wchar.h:152: error: forward declaration of 'struct tm'
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc: In member function 'virtual _InIter std::time_get<_CharT, _InIter>::do_get_year(_InIter, _InIter, std::ios_base&, std::_Ios_Iostate&, tm*) const':
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc:2288: error: invalid use of incomplete type 'struct tm'
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/wchar.h:152: error: forward declaration of 'struct tm'
+oIn file included from /opt/local/include/boost/tr1/tr1/complex:15,
+o                 from /Users/nistetsurooy/workspace/KaToracker/cxcore.hpp:53,
+o                 from /Users/nistetsurooy/workspace/KaToracker/cxcore.h:1826,
+o                 from /Users/nistetsurooy/workspace/KaToracker/cv.h:58,
+o                 from /Users/nistetsurooy/workspace/KaToracker/main.cpp:3:
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/complex: In function 'std::complex<_Tp> std::pow(const std::complex<_Tp>&, int)':
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/complex:943: error: '__pow_helper' is not a member of 'std'
+oIn file included from /opt/local/include/boost/smart_ptr/detail/spinlock_sync.hpp:18,
+o                 from /opt/local/include/boost/smart_ptr/detail/spinlock.hpp:38,
+o                 from /opt/local/include/boost/smart_ptr/detail/spinlock_pool.hpp:25,
+o                 from /opt/local/include/boost/smart_ptr/shared_ptr.hpp:37,
+o                 from /opt/local/include/boost/shared_ptr.hpp:17,
+o                 from /opt/local/include/boost/format/alt_sstream.hpp:21,
+o                 from /opt/local/include/boost/format/internals.hpp:23,
+o                 from /opt/local/include/boost/format.hpp:38,
+o                 from /opt/local/include/boost/math/policies/error_handling.hpp:30,
+o                 from /opt/local/include/boost/math/special_functions/log1p.hpp:19,
+o                 from /opt/local/include/boost/math/complex/asin.hpp:12,
+o                 from /opt/local/include/boost/math/complex.hpp:10,
+o                 from /opt/local/include/boost/tr1/complex.hpp:13,
+o                 from /opt/local/include/boost/tr1/tr1/complex:28,
+o                 from /Users/nistetsurooy/workspace/KaToracker/cxcore.hpp:53,
+o                 from /Users/nistetsurooy/workspace/KaToracker/cxcore.h:1826,
+o                 from /Users/nistetsurooy/workspace/KaToracker/cv.h:58,
+o                 from /Users/nistetsurooy/workspace/KaToracker/main.cpp:3:
+o/opt/local/include/boost/smart_ptr/detail/yield_k.hpp: In function 'void boost::detail::yield(unsigned int)':
+o/opt/local/include/boost/smart_ptr/detail/yield_k.hpp:123: error: 'nanosleep' was not declared in this scope
+lSLF07#2@57"Compile /Users/nistetsurooy/workspace/KaToracker/main.cpp303357888#303357897#0(10434"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/iosfwd:45,                 from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ios:43,                 from /opt/local/include/boost/tr1/tr1/ios:18,                 from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ostream:45,                 from /opt/local/include/boost/tr1/tr1/ostream:18,                 from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/iostream:45,                 from /opt/local/include/boost/tr1/tr1/iostream:18,                 from /Users/nistetsurooy/workspace/KaToracker/main.cpp:1:/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/i686-apple-darwin10/x86_64/bits/c++locale.h: In function 'int std::__convert_from_v(int* const&, char*, int, const char*, ...)':/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/i686-apple-darwin10/x86_64/bits/c++locale.h:80: error: 'vsnprintf' is not a member of 'std'In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.h:45,                 from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/basic_ios.h:44,                 from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ios:50,                 from /opt/local/include/boost/tr1/tr1/ios:18,                 from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ostream:45,                 from /opt/local/include/boost/tr1/tr1/ostream:18,                 from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/iostream:45,                 from /opt/local/include/boost/tr1/tr1/iostream:18,                 from /Users/nistetsurooy/workspace/KaToracker/main.cpp:1:/opt/local/include/boost/compatibility/cpp_c_headers/ctime: At global scope:/opt/local/include/boost/compatibility/cpp_c_headers/ctime:12: error: '::clock_t' has not been declared/opt/local/include/boost/compatibility/cpp_c_headers/ctime:15: error: '::asctime' has not been declared/opt/local/include/boost/compatibility/cpp_c_headers/ctime:16: error: '::clock' has not been declared/opt/local/include/boost/compatibility/cpp_c_headers/ctime:17: error: '::difftime' has not been declared/opt/local/include/boost/compatibility/cpp_c_headers/ctime:18: error: '::localtime' has not been declared/opt/local/include/boost/compatibility/cpp_c_headers/ctime:19: error: '::strftime' has not been declared/opt/local/include/boost/compatibility/cpp_c_headers/ctime:20: error: '::ctime' has not been declared/opt/local/include/boost/compatibility/cpp_c_headers/ctime:21: error: '::gmtime' has not been declared/opt/local/include/boost/compatibility/cpp_c_headers/ctime:22: error: '::mktime' has not been declared/opt/local/include/boost/compatibility/cpp_c_headers/ctime:23: error: '::time' has not been declaredIn file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/locale:46,                 from /opt/local/include/boost/tr1/tr1/locale:18,                 from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/ostream.tcc:46,                 from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ostream:572,                 from /opt/local/include/boost/tr1/tr1/ostream:18,                 from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/iostream:45,                 from /opt/local/include/boost/tr1/tr1/iostream:18,                 from /Users/nistetsurooy/workspace/KaToracker/main.cpp:1:/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc: In member function '_InIter std::time_get<_CharT, _InIter>::_M_extract_via_format(_InIter, _InIter, std::ios_base&, std::_Ios_Iostate&, tm*, const _CharT*) const':/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc:1839: error: invalid use of incomplete type 'struct tm'/Developer/SDKs/MacOSX10.6.sdk/usr/include/wchar.h:152: error: forward declaration of 'struct tm'/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc:1846: error: invalid use of incomplete type 'struct tm'/Developer/SDKs/MacOSX10.6.sdk/usr/include/wchar.h:152: error: forward declaration of 'struct tm'/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc:1854: error: invalid use of incomplete type 'struct tm'/Developer/SDKs/MacOSX10.6.sdk/usr/include/wchar.h:152: error: forward declaration of 'struct tm'/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc:1861: error: invalid use of incomplete type 'struct tm'/Developer/SDKs/MacOSX10.6.sdk/usr/include/wchar.h:152: error: forward declaration of 'struct tm'/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc:1873: error: invalid use of incomplete type 'struct tm'/Developer/SDKs/MacOSX10.6.sdk/usr/include/wchar.h:152: error: forward declaration of 'struct tm'/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc:1880: error: invalid use of incomplete type 'struct tm'/Developer/SDKs/MacOSX10.6.sdk/usr/include/wchar.h:152: error: forward declaration of 'struct tm'/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc:1883: error: invalid use of incomplete type 'struct tm'/Developer/SDKs/MacOSX10.6.sdk/usr/include/wchar.h:152: error: forward declaration of 'struct tm'/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc:1895: error: invalid use of incomplete type 'struct tm'/Developer/SDKs/MacOSX10.6.sdk/usr/include/wchar.h:152: error: forward declaration of 'struct tm'/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc:1900: error: invalid use of incomplete type 'struct tm'/Developer/SDKs/MacOSX10.6.sdk/usr/include/wchar.h:152: error: forward declaration of 'struct tm'/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc:1908: error: invalid use of incomplete type 'struct tm'/Developer/SDKs/MacOSX10.6.sdk/usr/include/wchar.h:152: error: forward declaration of 'struct tm'/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc:1912: error: invalid use of incomplete type 'struct tm'/Developer/SDKs/MacOSX10.6.sdk/usr/include/wchar.h:152: error: forward declaration of 'struct tm'/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc:1932: error: invalid use of incomplete type 'struct tm'/Developer/SDKs/MacOSX10.6.sdk/usr/include/wchar.h:152: error: forward declaration of 'struct tm'/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc:1968: error: invalid use of incomplete type 'struct tm'/Developer/SDKs/MacOSX10.6.sdk/usr/include/wchar.h:152: error: forward declaration of 'struct tm'/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc:1976: error: invalid use of incomplete type 'struct tm'/Developer/SDKs/MacOSX10.6.sdk/usr/include/wchar.h:152: error: forward declaration of 'struct tm'/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc: In member function 'virtual _InIter std::time_get<_CharT, _InIter>::do_get_weekday(_InIter, _InIter, std::ios_base&, std::_Ios_Iostate&, tm*) const':/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc:2210: error: invalid use of incomplete type 'struct tm'/Developer/SDKs/MacOSX10.6.sdk/usr/include/wchar.h:152: error: forward declaration of 'struct tm'/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc: In member function 'virtual _InIter std::time_get<_CharT, _InIter>::do_get_monthname(_InIter, _InIter, std::ios_base&, std::_Ios_Iostate&, tm*) const':/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc:2259: error: invalid use of incomplete type 'struct tm'/Developer/SDKs/MacOSX10.6.sdk/usr/include/wchar.h:152: error: forward declaration of 'struct tm'/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc: In member function 'virtual _InIter std::time_get<_CharT, _InIter>::do_get_year(_InIter, _InIter, std::ios_base&, std::_Ios_Iostate&, tm*) const':/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc:2288: error: invalid use of incomplete type 'struct tm'/Developer/SDKs/MacOSX10.6.sdk/usr/include/wchar.h:152: error: forward declaration of 'struct tm'In file included from /opt/local/include/boost/tr1/tr1/complex:15,                 from /Users/nistetsurooy/workspace/KaToracker/cxcore.hpp:53,                 from /Users/nistetsurooy/workspace/KaToracker/cxcore.h:1826,                 from /Users/nistetsurooy/workspace/KaToracker/cv.h:58,                 from /Users/nistetsurooy/workspace/KaToracker/main.cpp:3:/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/complex: In function 'std::complex<_Tp> std::pow(const std::complex<_Tp>&, int)':/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/complex:943: error: '__pow_helper' is not a member of 'std'In file included from /opt/local/include/boost/smart_ptr/detail/spinlock_sync.hpp:18,                 from /opt/local/include/boost/smart_ptr/detail/spinlock.hpp:38,                 from /opt/local/include/boost/smart_ptr/detail/spinlock_pool.hpp:25,                 from /opt/local/include/boost/smart_ptr/shared_ptr.hpp:37,                 from /opt/local/include/boost/shared_ptr.hpp:17,                 from /opt/local/include/boost/format/alt_sstream.hpp:21,                 from /opt/local/include/boost/format/internals.hpp:23,                 from /opt/local/include/boost/format.hpp:38,                 from /opt/local/include/boost/math/policies/error_handling.hpp:30,                 from /opt/local/include/boost/math/special_functions/log1p.hpp:19,                 from /opt/local/include/boost/math/complex/asin.hpp:12,                 from /opt/local/include/boost/math/complex.hpp:10,                 from /opt/local/include/boost/tr1/complex.hpp:13,                 from /opt/local/include/boost/tr1/tr1/complex:28,                 from /Users/nistetsurooy/workspace/KaToracker/cxcore.hpp:53,                 from /Users/nistetsurooy/workspace/KaToracker/cxcore.h:1826,                 from /Users/nistetsurooy/workspace/KaToracker/cv.h:58,                 from /Users/nistetsurooy/workspace/KaToracker/main.cpp:3:/opt/local/include/boost/smart_ptr/detail/yield_k.hpp: In function 'void boost::detail::yield(unsigned int)':/opt/local/include/boost/smart_ptr/detail/yield_k.hpp:123: error: 'nanosleep' was not declared in this scope48(4@36"'vsnprintf' is not a member of 'std'303357896#799#145#9(7@71"In file included from /Users/nistetsurooy/workspace/KaToracker/main.cpp303357896#18446744073709551615#0#0(6@49"/Users/nistetsurooy/workspace/KaToracker/main.cpp303357830#1#0#1#0#0"0(7@63"In file included from /opt/local/include/boost/tr1/tr1/iostream303357896#18446744073709551615#0#0(6@41"/opt/local/include/boost/tr1/tr1/iostream289551147#18#0#18#0#0"0(7@83"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/iostream303357896#18446744073709551615#0#0(6@61"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/iostream275368777#45#0#45#0#0"0(7@62"In file included from /opt/local/include/boost/tr1/tr1/ostream303357896#18446744073709551615#0#0(6@40"/opt/local/include/boost/tr1/tr1/ostream289551147#18#0#18#0#0"0(7@82"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ostream303357896#18446744073709551615#0#0(6@60"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ostream275368777#45#0#45#0#0"0(7@58"In file included from /opt/local/include/boost/tr1/tr1/ios303357896#18446744073709551615#0#0(6@36"/opt/local/include/boost/tr1/tr1/ios289551147#18#0#18#0#0"0(7@78"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ios303357896#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ios275368777#43#0#43#0#0"0(7@81"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/iosfwd303357896#18446744073709551615#0#0(6@59"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/iosfwd275368777#45#0#45#0#0"0(13@136"'vsnprintf' is not a member of 'std' in /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/i686-apple-darwin10/x86_64/bits/c++locale.h303357896#18446744073709551615#0#0(6@96"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/i686-apple-darwin10/x86_64/bits/c++locale.h275368778#80#0#80#0#0"0(6@96"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/i686-apple-darwin10/x86_64/bits/c++locale.h275368778#80#0#80#0#0"0(23@16"At global scope:303357896#1671#77#10(7@71"In file included from /Users/nistetsurooy/workspace/KaToracker/main.cpp303357896#18446744073709551615#0#0(6@49"/Users/nistetsurooy/workspace/KaToracker/main.cpp303357830#1#0#1#0#0"0(7@63"In file included from /opt/local/include/boost/tr1/tr1/iostream303357896#18446744073709551615#0#0(6@41"/opt/local/include/boost/tr1/tr1/iostream289551147#18#0#18#0#0"0(7@83"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/iostream303357896#18446744073709551615#0#0(6@61"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/iostream275368777#45#0#45#0#0"0(7@62"In file included from /opt/local/include/boost/tr1/tr1/ostream303357896#18446744073709551615#0#0(6@40"/opt/local/include/boost/tr1/tr1/ostream289551147#18#0#18#0#0"0(7@82"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ostream303357896#18446744073709551615#0#0(6@60"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ostream275368777#45#0#45#0#0"0(7@58"In file included from /opt/local/include/boost/tr1/tr1/ios303357896#18446744073709551615#0#0(6@36"/opt/local/include/boost/tr1/tr1/ios289551147#18#0#18#0#0"0(7@78"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ios303357896#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ios275368777#50#0#50#0#0"0(7@91"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/basic_ios.h303357896#18446744073709551615#0#0(6@69"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/basic_ios.h275368770#44#0#44#0#0"0(7@95"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.h303357896#18446744073709551615#0#0(6@73"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.h275368770#45#0#45#0#0"0(13@78"At global scope: in /opt/local/include/boost/compatibility/cpp_c_headers/ctime303357896#18446744073709551615#0#0(6@58"/opt/local/include/boost/compatibility/cpp_c_headers/ctime289551146#0#0#0#0#0"0(6@58"/opt/local/include/boost/compatibility/cpp_c_headers/ctime289551146#0#0#0#0#0"0(4@33"'::clock_t' has not been declared303357896#1748#104#10(7@71"In file included from /Users/nistetsurooy/workspace/KaToracker/main.cpp303357896#18446744073709551615#0#0(6@49"/Users/nistetsurooy/workspace/KaToracker/main.cpp303357830#1#0#1#0#0"0(7@63"In file included from /opt/local/include/boost/tr1/tr1/iostream303357896#18446744073709551615#0#0(6@41"/opt/local/include/boost/tr1/tr1/iostream289551147#18#0#18#0#0"0(7@83"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/iostream303357896#18446744073709551615#0#0(6@61"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/iostream275368777#45#0#45#0#0"0(7@62"In file included from /opt/local/include/boost/tr1/tr1/ostream303357896#18446744073709551615#0#0(6@40"/opt/local/include/boost/tr1/tr1/ostream289551147#18#0#18#0#0"0(7@82"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ostream303357896#18446744073709551615#0#0(6@60"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ostream275368777#45#0#45#0#0"0(7@58"In file included from /opt/local/include/boost/tr1/tr1/ios303357896#18446744073709551615#0#0(6@36"/opt/local/include/boost/tr1/tr1/ios289551147#18#0#18#0#0"0(7@78"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ios303357896#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ios275368777#50#0#50#0#0"0(7@91"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/basic_ios.h303357896#18446744073709551615#0#0(6@69"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/basic_ios.h275368770#44#0#44#0#0"0(7@95"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.h303357896#18446744073709551615#0#0(6@73"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.h275368770#45#0#45#0#0"0(13@95"'::clock_t' has not been declared in /opt/local/include/boost/compatibility/cpp_c_headers/ctime303357896#18446744073709551615#0#0(6@58"/opt/local/include/boost/compatibility/cpp_c_headers/ctime289551146#12#0#12#0#0"0(6@58"/opt/local/include/boost/compatibility/cpp_c_headers/ctime289551146#12#0#12#0#25"'*' has not been declared0(4@33"'::asctime' has not been declared303357896#1852#104#10(7@71"In file included from /Users/nistetsurooy/workspace/KaToracker/main.cpp303357896#18446744073709551615#0#0(6@49"/Users/nistetsurooy/workspace/KaToracker/main.cpp303357830#1#0#1#0#0"0(7@63"In file included from /opt/local/include/boost/tr1/tr1/iostream303357896#18446744073709551615#0#0(6@41"/opt/local/include/boost/tr1/tr1/iostream289551147#18#0#18#0#0"0(7@83"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/iostream303357896#18446744073709551615#0#0(6@61"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/iostream275368777#45#0#45#0#0"0(7@62"In file included from /opt/local/include/boost/tr1/tr1/ostream303357896#18446744073709551615#0#0(6@40"/opt/local/include/boost/tr1/tr1/ostream289551147#18#0#18#0#0"0(7@82"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ostream303357896#18446744073709551615#0#0(6@60"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ostream275368777#45#0#45#0#0"0(7@58"In file included from /opt/local/include/boost/tr1/tr1/ios303357896#18446744073709551615#0#0(6@36"/opt/local/include/boost/tr1/tr1/ios289551147#18#0#18#0#0"0(7@78"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ios303357896#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ios275368777#50#0#50#0#0"0(7@91"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/basic_ios.h303357896#18446744073709551615#0#0(6@69"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/basic_ios.h275368770#44#0#44#0#0"0(7@95"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.h303357896#18446744073709551615#0#0(6@73"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.h275368770#45#0#45#0#0"0(13@95"'::asctime' has not been declared in /opt/local/include/boost/compatibility/cpp_c_headers/ctime303357896#18446744073709551615#0#0(6@58"/opt/local/include/boost/compatibility/cpp_c_headers/ctime289551146#15#0#15#0#0"0(6@58"/opt/local/include/boost/compatibility/cpp_c_headers/ctime289551146#15#0#15#0#25"'*' has not been declared0(4@31"'::clock' has not been declared303357896#1956#102#10(7@71"In file included from /Users/nistetsurooy/workspace/KaToracker/main.cpp303357896#18446744073709551615#0#0(6@49"/Users/nistetsurooy/workspace/KaToracker/main.cpp303357830#1#0#1#0#0"0(7@63"In file included from /opt/local/include/boost/tr1/tr1/iostream303357896#18446744073709551615#0#0(6@41"/opt/local/include/boost/tr1/tr1/iostream289551147#18#0#18#0#0"0(7@83"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/iostream303357896#18446744073709551615#0#0(6@61"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/iostream275368777#45#0#45#0#0"0(7@62"In file included from /opt/local/include/boost/tr1/tr1/ostream303357896#18446744073709551615#0#0(6@40"/opt/local/include/boost/tr1/tr1/ostream289551147#18#0#18#0#0"0(7@82"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ostream303357896#18446744073709551615#0#0(6@60"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ostream275368777#45#0#45#0#0"0(7@58"In file included from /opt/local/include/boost/tr1/tr1/ios303357896#18446744073709551615#0#0(6@36"/opt/local/include/boost/tr1/tr1/ios289551147#18#0#18#0#0"0(7@78"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ios303357896#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ios275368777#50#0#50#0#0"0(7@91"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/basic_ios.h303357896#18446744073709551615#0#0(6@69"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/basic_ios.h275368770#44#0#44#0#0"0(7@95"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.h303357896#18446744073709551615#0#0(6@73"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.h275368770#45#0#45#0#0"0(13@93"'::clock' has not been declared in /opt/local/include/boost/compatibility/cpp_c_headers/ctime303357896#18446744073709551615#0#0(6@58"/opt/local/include/boost/compatibility/cpp_c_headers/ctime289551146#16#0#16#0#0"0(6@58"/opt/local/include/boost/compatibility/cpp_c_headers/ctime289551146#16#0#16#0#25"'*' has not been declared0(4@34"'::difftime' has not been declared303357896#2058#105#10(7@71"In file included from /Users/nistetsurooy/workspace/KaToracker/main.cpp303357896#18446744073709551615#0#0(6@49"/Users/nistetsurooy/workspace/KaToracker/main.cpp303357830#1#0#1#0#0"0(7@63"In file included from /opt/local/include/boost/tr1/tr1/iostream303357896#18446744073709551615#0#0(6@41"/opt/local/include/boost/tr1/tr1/iostream289551147#18#0#18#0#0"0(7@83"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/iostream303357896#18446744073709551615#0#0(6@61"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/iostream275368777#45#0#45#0#0"0(7@62"In file included from /opt/local/include/boost/tr1/tr1/ostream303357896#18446744073709551615#0#0(6@40"/opt/local/include/boost/tr1/tr1/ostream289551147#18#0#18#0#0"0(7@82"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ostream303357896#18446744073709551615#0#0(6@60"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ostream275368777#45#0#45#0#0"0(7@58"In file included from /opt/local/include/boost/tr1/tr1/ios303357896#18446744073709551615#0#0(6@36"/opt/local/include/boost/tr1/tr1/ios289551147#18#0#18#0#0"0(7@78"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ios303357896#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ios275368777#50#0#50#0#0"0(7@91"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/basic_ios.h303357896#18446744073709551615#0#0(6@69"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/basic_ios.h275368770#44#0#44#0#0"0(7@95"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.h303357896#18446744073709551615#0#0(6@73"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.h275368770#45#0#45#0#0"0(13@96"'::difftime' has not been declared in /opt/local/include/boost/compatibility/cpp_c_headers/ctime303357896#18446744073709551615#0#0(6@58"/opt/local/include/boost/compatibility/cpp_c_headers/ctime289551146#17#0#17#0#0"0(6@58"/opt/local/include/boost/compatibility/cpp_c_headers/ctime289551146#17#0#17#0#25"'*' has not been declared0(4@35"'::localtime' has not been declared303357896#2163#106#10(7@71"In file included from /Users/nistetsurooy/workspace/KaToracker/main.cpp303357896#18446744073709551615#0#0(6@49"/Users/nistetsurooy/workspace/KaToracker/main.cpp303357830#1#0#1#0#0"0(7@63"In file included from /opt/local/include/boost/tr1/tr1/iostream303357896#18446744073709551615#0#0(6@41"/opt/local/include/boost/tr1/tr1/iostream289551147#18#0#18#0#0"0(7@83"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/iostream303357896#18446744073709551615#0#0(6@61"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/iostream275368777#45#0#45#0#0"0(7@62"In file included from /opt/local/include/boost/tr1/tr1/ostream303357896#18446744073709551615#0#0(6@40"/opt/local/include/boost/tr1/tr1/ostream289551147#18#0#18#0#0"0(7@82"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ostream303357896#18446744073709551615#0#0(6@60"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ostream275368777#45#0#45#0#0"0(7@58"In file included from /opt/local/include/boost/tr1/tr1/ios303357896#18446744073709551615#0#0(6@36"/opt/local/include/boost/tr1/tr1/ios289551147#18#0#18#0#0"0(7@78"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ios303357896#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ios275368777#50#0#50#0#0"0(7@91"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/basic_ios.h303357896#18446744073709551615#0#0(6@69"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/basic_ios.h275368770#44#0#44#0#0"0(7@95"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.h303357896#18446744073709551615#0#0(6@73"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.h275368770#45#0#45#0#0"0(13@97"'::localtime' has not been declared in /opt/local/include/boost/compatibility/cpp_c_headers/ctime303357896#18446744073709551615#0#0(6@58"/opt/local/include/boost/compatibility/cpp_c_headers/ctime289551146#18#0#18#0#0"0(6@58"/opt/local/include/boost/compatibility/cpp_c_headers/ctime289551146#18#0#18#0#25"'*' has not been declared0(4@34"'::strftime' has not been declared303357896#2269#105#10(7@71"In file included from /Users/nistetsurooy/workspace/KaToracker/main.cpp303357896#18446744073709551615#0#0(6@49"/Users/nistetsurooy/workspace/KaToracker/main.cpp303357830#1#0#1#0#0"0(7@63"In file included from /opt/local/include/boost/tr1/tr1/iostream303357896#18446744073709551615#0#0(6@41"/opt/local/include/boost/tr1/tr1/iostream289551147#18#0#18#0#0"0(7@83"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/iostream303357896#18446744073709551615#0#0(6@61"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/iostream275368777#45#0#45#0#0"0(7@62"In file included from /opt/local/include/boost/tr1/tr1/ostream303357896#18446744073709551615#0#0(6@40"/opt/local/include/boost/tr1/tr1/ostream289551147#18#0#18#0#0"0(7@82"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ostream303357896#18446744073709551615#0#0(6@60"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ostream275368777#45#0#45#0#0"0(7@58"In file included from /opt/local/include/boost/tr1/tr1/ios303357896#18446744073709551615#0#0(6@36"/opt/local/include/boost/tr1/tr1/ios289551147#18#0#18#0#0"0(7@78"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ios303357896#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ios275368777#50#0#50#0#0"0(7@91"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/basic_ios.h303357896#18446744073709551615#0#0(6@69"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/basic_ios.h275368770#44#0#44#0#0"0(7@95"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.h303357896#18446744073709551615#0#0(6@73"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.h275368770#45#0#45#0#0"0(13@96"'::strftime' has not been declared in /opt/local/include/boost/compatibility/cpp_c_headers/ctime303357896#18446744073709551615#0#0(6@58"/opt/local/include/boost/compatibility/cpp_c_headers/ctime289551146#19#0#19#0#0"0(6@58"/opt/local/include/boost/compatibility/cpp_c_headers/ctime289551146#19#0#19#0#25"'*' has not been declared0(4@31"'::ctime' has not been declared303357896#2374#102#10(7@71"In file included from /Users/nistetsurooy/workspace/KaToracker/main.cpp303357896#18446744073709551615#0#0(6@49"/Users/nistetsurooy/workspace/KaToracker/main.cpp303357830#1#0#1#0#0"0(7@63"In file included from /opt/local/include/boost/tr1/tr1/iostream303357896#18446744073709551615#0#0(6@41"/opt/local/include/boost/tr1/tr1/iostream289551147#18#0#18#0#0"0(7@83"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/iostream303357896#18446744073709551615#0#0(6@61"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/iostream275368777#45#0#45#0#0"0(7@62"In file included from /opt/local/include/boost/tr1/tr1/ostream303357896#18446744073709551615#0#0(6@40"/opt/local/include/boost/tr1/tr1/ostream289551147#18#0#18#0#0"0(7@82"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ostream303357896#18446744073709551615#0#0(6@60"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ostream275368777#45#0#45#0#0"0(7@58"In file included from /opt/local/include/boost/tr1/tr1/ios303357896#18446744073709551615#0#0(6@36"/opt/local/include/boost/tr1/tr1/ios289551147#18#0#18#0#0"0(7@78"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ios303357896#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ios275368777#50#0#50#0#0"0(7@91"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/basic_ios.h303357896#18446744073709551615#0#0(6@69"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/basic_ios.h275368770#44#0#44#0#0"0(7@95"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.h303357896#18446744073709551615#0#0(6@73"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.h275368770#45#0#45#0#0"0(13@93"'::ctime' has not been declared in /opt/local/include/boost/compatibility/cpp_c_headers/ctime303357896#18446744073709551615#0#0(6@58"/opt/local/include/boost/compatibility/cpp_c_headers/ctime289551146#20#0#20#0#0"0(6@58"/opt/local/include/boost/compatibility/cpp_c_headers/ctime289551146#20#0#20#0#25"'*' has not been declared0(4@32"'::gmtime' has not been declared303357896#2476#103#10(7@71"In file included from /Users/nistetsurooy/workspace/KaToracker/main.cpp303357896#18446744073709551615#0#0(6@49"/Users/nistetsurooy/workspace/KaToracker/main.cpp303357830#1#0#1#0#0"0(7@63"In file included from /opt/local/include/boost/tr1/tr1/iostream303357896#18446744073709551615#0#0(6@41"/opt/local/include/boost/tr1/tr1/iostream289551147#18#0#18#0#0"0(7@83"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/iostream303357896#18446744073709551615#0#0(6@61"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/iostream275368777#45#0#45#0#0"0(7@62"In file included from /opt/local/include/boost/tr1/tr1/ostream303357896#18446744073709551615#0#0(6@40"/opt/local/include/boost/tr1/tr1/ostream289551147#18#0#18#0#0"0(7@82"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ostream303357896#18446744073709551615#0#0(6@60"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ostream275368777#45#0#45#0#0"0(7@58"In file included from /opt/local/include/boost/tr1/tr1/ios303357896#18446744073709551615#0#0(6@36"/opt/local/include/boost/tr1/tr1/ios289551147#18#0#18#0#0"0(7@78"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ios303357896#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ios275368777#50#0#50#0#0"0(7@91"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/basic_ios.h303357896#18446744073709551615#0#0(6@69"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/basic_ios.h275368770#44#0#44#0#0"0(7@95"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.h303357896#18446744073709551615#0#0(6@73"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.h275368770#45#0#45#0#0"0(13@94"'::gmtime' has not been declared in /opt/local/include/boost/compatibility/cpp_c_headers/ctime303357896#18446744073709551615#0#0(6@58"/opt/local/include/boost/compatibility/cpp_c_headers/ctime289551146#21#0#21#0#0"0(6@58"/opt/local/include/boost/compatibility/cpp_c_headers/ctime289551146#21#0#21#0#25"'*' has not been declared0(4@32"'::mktime' has not been declared303357896#2579#103#10(7@71"In file included from /Users/nistetsurooy/workspace/KaToracker/main.cpp303357896#18446744073709551615#0#0(6@49"/Users/nistetsurooy/workspace/KaToracker/main.cpp303357830#1#0#1#0#0"0(7@63"In file included from /opt/local/include/boost/tr1/tr1/iostream303357896#18446744073709551615#0#0(6@41"/opt/local/include/boost/tr1/tr1/iostream289551147#18#0#18#0#0"0(7@83"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/iostream303357896#18446744073709551615#0#0(6@61"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/iostream275368777#45#0#45#0#0"0(7@62"In file included from /opt/local/include/boost/tr1/tr1/ostream303357896#18446744073709551615#0#0(6@40"/opt/local/include/boost/tr1/tr1/ostream289551147#18#0#18#0#0"0(7@82"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ostream303357896#18446744073709551615#0#0(6@60"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ostream275368777#45#0#45#0#0"0(7@58"In file included from /opt/local/include/boost/tr1/tr1/ios303357896#18446744073709551615#0#0(6@36"/opt/local/include/boost/tr1/tr1/ios289551147#18#0#18#0#0"0(7@78"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ios303357896#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ios275368777#50#0#50#0#0"0(7@91"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/basic_ios.h303357896#18446744073709551615#0#0(6@69"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/basic_ios.h275368770#44#0#44#0#0"0(7@95"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.h303357896#18446744073709551615#0#0(6@73"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.h275368770#45#0#45#0#0"0(13@94"'::mktime' has not been declared in /opt/local/include/boost/compatibility/cpp_c_headers/ctime303357896#18446744073709551615#0#0(6@58"/opt/local/include/boost/compatibility/cpp_c_headers/ctime289551146#22#0#22#0#0"0(6@58"/opt/local/include/boost/compatibility/cpp_c_headers/ctime289551146#22#0#22#0#25"'*' has not been declared0(4@30"'::time' has not been declared303357896#2682#101#10(7@71"In file included from /Users/nistetsurooy/workspace/KaToracker/main.cpp303357896#18446744073709551615#0#0(6@49"/Users/nistetsurooy/workspace/KaToracker/main.cpp303357830#1#0#1#0#0"0(7@63"In file included from /opt/local/include/boost/tr1/tr1/iostream303357896#18446744073709551615#0#0(6@41"/opt/local/include/boost/tr1/tr1/iostream289551147#18#0#18#0#0"0(7@83"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/iostream303357896#18446744073709551615#0#0(6@61"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/iostream275368777#45#0#45#0#0"0(7@62"In file included from /opt/local/include/boost/tr1/tr1/ostream303357896#18446744073709551615#0#0(6@40"/opt/local/include/boost/tr1/tr1/ostream289551147#18#0#18#0#0"0(7@82"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ostream303357896#18446744073709551615#0#0(6@60"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ostream275368777#45#0#45#0#0"0(7@58"In file included from /opt/local/include/boost/tr1/tr1/ios303357896#18446744073709551615#0#0(6@36"/opt/local/include/boost/tr1/tr1/ios289551147#18#0#18#0#0"0(7@78"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ios303357896#18446744073709551615#0#0(6@56"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ios275368777#50#0#50#0#0"0(7@91"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/basic_ios.h303357896#18446744073709551615#0#0(6@69"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/basic_ios.h275368770#44#0#44#0#0"0(7@95"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.h303357896#18446744073709551615#0#0(6@73"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.h275368770#45#0#45#0#0"0(13@92"'::time' has not been declared in /opt/local/include/boost/compatibility/cpp_c_headers/ctime303357896#18446744073709551615#0#0(6@58"/opt/local/include/boost/compatibility/cpp_c_headers/ctime289551146#23#0#23#0#0"0(6@58"/opt/local/include/boost/compatibility/cpp_c_headers/ctime289551146#23#0#23#0#25"'*' has not been declared0(4@42"Invalid use of incomplete type 'struct tm'303357896#3658#132#9(7@71"In file included from /Users/nistetsurooy/workspace/KaToracker/main.cpp303357896#18446744073709551615#0#0(6@49"/Users/nistetsurooy/workspace/KaToracker/main.cpp303357830#1#0#1#0#0"0(7@63"In file included from /opt/local/include/boost/tr1/tr1/iostream303357896#18446744073709551615#0#0(6@41"/opt/local/include/boost/tr1/tr1/iostream289551147#18#0#18#0#0"0(7@83"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/iostream303357896#18446744073709551615#0#0(6@61"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/iostream275368777#45#0#45#0#0"0(7@62"In file included from /opt/local/include/boost/tr1/tr1/ostream303357896#18446744073709551615#0#0(6@40"/opt/local/include/boost/tr1/tr1/ostream289551147#18#0#18#0#0"0(7@82"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ostream303357896#18446744073709551615#0#0(6@60"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/ostream275368777#572#0#572#0#0"0(7@91"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/ostream.tcc303357896#18446744073709551615#0#0(6@69"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/ostream.tcc275368770#46#0#46#0#0"0(7@61"In file included from /opt/local/include/boost/tr1/tr1/locale303357896#18446744073709551615#0#0(6@39"/opt/local/include/boost/tr1/tr1/locale289551147#18#0#18#0#0"0(7@81"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/locale303357896#18446744073709551615#0#0(6@59"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/locale275368777#46#0#46#0#0"0(13@121"Invalid use of incomplete type 'struct tm' in /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc303357896#18446744073709551615#0#0(6@75"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc275368770#1839#0#1839#0#0"0(6@75"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc275368770#1839#0#1839#0#0"0(4@34"Forward declaration of 'struct tm'303357896#3790#98#0(6@50"/Developer/SDKs/MacOSX10.6.sdk/usr/include/wchar.h269241383#152#0#152#0#0"0(4@42"Invalid use of incomplete type 'struct tm'303357896#3888#132#0(6@75"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc275368770#1846#0#1846#0#0"0(4@34"Forward declaration of 'struct tm'303357896#4020#98#0(6@50"/Developer/SDKs/MacOSX10.6.sdk/usr/include/wchar.h269241383#152#0#152#0#0"0(4@42"Invalid use of incomplete type 'struct tm'303357896#4118#132#0(6@75"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc275368770#1854#0#1854#0#0"0(4@34"Forward declaration of 'struct tm'303357896#4250#98#0(6@50"/Developer/SDKs/MacOSX10.6.sdk/usr/include/wchar.h269241383#152#0#152#0#0"0(4@42"Invalid use of incomplete type 'struct tm'303357896#4348#132#0(6@75"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc275368770#1861#0#1861#0#0"0(4@34"Forward declaration of 'struct tm'303357896#4480#98#0(6@50"/Developer/SDKs/MacOSX10.6.sdk/usr/include/wchar.h269241383#152#0#152#0#0"0(4@42"Invalid use of incomplete type 'struct tm'303357896#4578#132#0(6@75"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc275368770#1873#0#1873#0#0"0(4@34"Forward declaration of 'struct tm'303357896#4710#98#0(6@50"/Developer/SDKs/MacOSX10.6.sdk/usr/include/wchar.h269241383#152#0#152#0#0"0(4@42"Invalid use of incomplete type 'struct tm'303357896#4808#132#0(6@75"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc275368770#1880#0#1880#0#0"0(4@34"Forward declaration of 'struct tm'303357896#4940#98#0(6@50"/Developer/SDKs/MacOSX10.6.sdk/usr/include/wchar.h269241383#152#0#152#0#0"0(4@42"Invalid use of incomplete type 'struct tm'303357896#5038#132#0(6@75"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc275368770#1883#0#1883#0#0"0(4@34"Forward declaration of 'struct tm'303357896#5170#98#0(6@50"/Developer/SDKs/MacOSX10.6.sdk/usr/include/wchar.h269241383#152#0#152#0#0"0(4@42"Invalid use of incomplete type 'struct tm'303357896#5268#132#0(6@75"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc275368770#1895#0#1895#0#0"0(4@34"Forward declaration of 'struct tm'303357896#5400#98#0(6@50"/Developer/SDKs/MacOSX10.6.sdk/usr/include/wchar.h269241383#152#0#152#0#0"0(4@42"Invalid use of incomplete type 'struct tm'303357896#5498#132#0(6@75"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc275368770#1900#0#1900#0#0"0(4@34"Forward declaration of 'struct tm'303357896#5630#98#0(6@50"/Developer/SDKs/MacOSX10.6.sdk/usr/include/wchar.h269241383#152#0#152#0#0"0(4@42"Invalid use of incomplete type 'struct tm'303357896#5728#132#0(6@75"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc275368770#1908#0#1908#0#0"0(4@34"Forward declaration of 'struct tm'303357896#5860#98#0(6@50"/Developer/SDKs/MacOSX10.6.sdk/usr/include/wchar.h269241383#152#0#152#0#0"0(4@42"Invalid use of incomplete type 'struct tm'303357896#5958#132#0(6@75"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc275368770#1912#0#1912#0#0"0(4@34"Forward declaration of 'struct tm'303357896#6090#98#0(6@50"/Developer/SDKs/MacOSX10.6.sdk/usr/include/wchar.h269241383#152#0#152#0#0"0(4@42"Invalid use of incomplete type 'struct tm'303357896#6188#132#0(6@75"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc275368770#1932#0#1932#0#0"0(4@34"Forward declaration of 'struct tm'303357896#6320#98#0(6@50"/Developer/SDKs/MacOSX10.6.sdk/usr/include/wchar.h269241383#152#0#152#0#0"0(4@42"Invalid use of incomplete type 'struct tm'303357896#6418#132#0(6@75"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc275368770#1968#0#1968#0#0"0(4@34"Forward declaration of 'struct tm'303357896#6550#98#0(6@50"/Developer/SDKs/MacOSX10.6.sdk/usr/include/wchar.h269241383#152#0#152#0#0"0(4@42"Invalid use of incomplete type 'struct tm'303357896#6648#132#0(6@75"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc275368770#1976#0#1976#0#0"0(4@34"Forward declaration of 'struct tm'303357896#6780#98#0(6@50"/Developer/SDKs/MacOSX10.6.sdk/usr/include/wchar.h269241383#152#0#152#0#0"0(4@42"Invalid use of incomplete type 'struct tm'303357896#7105#132#0(6@75"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc275368770#2210#0#2210#0#0"0(4@34"Forward declaration of 'struct tm'303357896#7237#98#0(6@50"/Developer/SDKs/MacOSX10.6.sdk/usr/include/wchar.h269241383#152#0#152#0#0"0(4@42"Invalid use of incomplete type 'struct tm'303357896#7564#132#0(6@75"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc275368770#2259#0#2259#0#0"0(4@34"Forward declaration of 'struct tm'303357896#7696#98#0(6@50"/Developer/SDKs/MacOSX10.6.sdk/usr/include/wchar.h269241383#152#0#152#0#0"0(4@42"Invalid use of incomplete type 'struct tm'303357896#8018#132#0(6@75"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/locale_facets.tcc275368770#2288#0#2288#0#0"0(4@34"Forward declaration of 'struct tm'303357896#8150#98#0(6@50"/Developer/SDKs/MacOSX10.6.sdk/usr/include/wchar.h269241383#152#0#152#0#0"0(4@39"'__pow_helper' is not a member of 'std'303357896#8753#113#6(7@71"In file included from /Users/nistetsurooy/workspace/KaToracker/main.cpp303357896#18446744073709551615#0#0(6@49"/Users/nistetsurooy/workspace/KaToracker/main.cpp303357830#3#0#3#0#0"0(7@67"In file included from /Users/nistetsurooy/workspace/KaToracker/cv.h303357896#18446744073709551615#0#0(6@45"/Users/nistetsurooy/workspace/KaToracker/cv.h303357739#58#0#58#0#0"0(7@71"In file included from /Users/nistetsurooy/workspace/KaToracker/cxcore.h303357896#18446744073709551615#0#0(6@49"/Users/nistetsurooy/workspace/KaToracker/cxcore.h303357740#1826#0#1826#0#0"0(7@73"In file included from /Users/nistetsurooy/workspace/KaToracker/cxcore.hpp303357896#18446744073709551615#0#0(6@51"/Users/nistetsurooy/workspace/KaToracker/cxcore.hpp303357740#53#0#53#0#0"0(7@62"In file included from /opt/local/include/boost/tr1/tr1/complex303357896#18446744073709551615#0#0(6@40"/opt/local/include/boost/tr1/tr1/complex289551146#15#0#15#0#0"0(13@103"'__pow_helper' is not a member of 'std' in /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/complex303357896#18446744073709551615#0#0(6@60"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/complex275368777#943#0#943#0#0"0(6@60"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/complex275368777#943#0#943#0#0"0(4@42"'nanosleep' was not declared in this scope303357897#10325#109#19(7@71"In file included from /Users/nistetsurooy/workspace/KaToracker/main.cpp303357897#18446744073709551615#0#0(6@49"/Users/nistetsurooy/workspace/KaToracker/main.cpp303357830#3#0#3#0#0"0(7@67"In file included from /Users/nistetsurooy/workspace/KaToracker/cv.h303357897#18446744073709551615#0#0(6@45"/Users/nistetsurooy/workspace/KaToracker/cv.h303357739#58#0#58#0#0"0(7@71"In file included from /Users/nistetsurooy/workspace/KaToracker/cxcore.h303357897#18446744073709551615#0#0(6@49"/Users/nistetsurooy/workspace/KaToracker/cxcore.h303357740#1826#0#1826#0#0"0(7@73"In file included from /Users/nistetsurooy/workspace/KaToracker/cxcore.hpp303357897#18446744073709551615#0#0(6@51"/Users/nistetsurooy/workspace/KaToracker/cxcore.hpp303357740#53#0#53#0#0"0(7@62"In file included from /opt/local/include/boost/tr1/tr1/complex303357897#18446744073709551615#0#0(6@40"/opt/local/include/boost/tr1/tr1/complex289551146#28#0#28#0#0"0(7@62"In file included from /opt/local/include/boost/tr1/complex.hpp303357897#18446744073709551615#0#0(6@40"/opt/local/include/boost/tr1/complex.hpp289550495#13#0#13#0#0"0(7@63"In file included from /opt/local/include/boost/math/complex.hpp303357897#18446744073709551615#0#0(6@41"/opt/local/include/boost/math/complex.hpp289550475#10#0#10#0#0"0(7@68"In file included from /opt/local/include/boost/math/complex/asin.hpp303357897#18446744073709551615#0#0(6@46"/opt/local/include/boost/math/complex/asin.hpp289550528#12#0#12#0#0"0(7@79"In file included from /opt/local/include/boost/math/special_functions/log1p.hpp303357897#18446744073709551615#0#0(6@57"/opt/local/include/boost/math/special_functions/log1p.hpp289550530#19#0#19#0#0"0(7@79"In file included from /opt/local/include/boost/math/policies/error_handling.hpp303357897#18446744073709551615#0#0(6@57"/opt/local/include/boost/math/policies/error_handling.hpp289550529#30#0#30#0#0"0(7@57"In file included from /opt/local/include/boost/format.hpp303357897#18446744073709551615#0#0(6@35"/opt/local/include/boost/format.hpp289550454#38#0#38#0#0"0(7@67"In file included from /opt/local/include/boost/format/internals.hpp303357897#18446744073709551615#0#0(6@45"/opt/local/include/boost/format/internals.hpp289550465#23#0#23#0#0"0(7@69"In file included from /opt/local/include/boost/format/alt_sstream.hpp303357897#18446744073709551615#0#0(6@47"/opt/local/include/boost/format/alt_sstream.hpp289550465#21#0#21#0#0"0(7@61"In file included from /opt/local/include/boost/shared_ptr.hpp303357897#18446744073709551615#0#0(6@39"/opt/local/include/boost/shared_ptr.hpp289550455#17#0#17#0#0"0(7@71"In file included from /opt/local/include/boost/smart_ptr/shared_ptr.hpp303357897#18446744073709551615#0#0(6@49"/opt/local/include/boost/smart_ptr/shared_ptr.hpp289550493#37#0#37#0#0"0(7@81"In file included from /opt/local/include/boost/smart_ptr/detail/spinlock_pool.hpp303357897#18446744073709551615#0#0(6@59"/opt/local/include/boost/smart_ptr/detail/spinlock_pool.hpp289550932#25#0#25#0#0"0(7@76"In file included from /opt/local/include/boost/smart_ptr/detail/spinlock.hpp303357897#18446744073709551615#0#0(6@54"/opt/local/include/boost/smart_ptr/detail/spinlock.hpp289550932#38#0#38#0#0"0(7@81"In file included from /opt/local/include/boost/smart_ptr/detail/spinlock_sync.hpp303357897#18446744073709551615#0#0(6@59"/opt/local/include/boost/smart_ptr/detail/spinlock_sync.hpp289550932#18#0#18#0#0"0(13@99"'nanosleep' was not declared in this scope in /opt/local/include/boost/smart_ptr/detail/yield_k.hpp303357897#18446744073709551615#0#0(6@53"/opt/local/include/boost/smart_ptr/detail/yield_k.hpp289550932#123#0#123#0#0"0(6@53"/opt/local/include/boost/smart_ptr/detail/yield_k.hpp289550932#123#0#123#0#34"'*' was not declared in this scope0(0#0#49"/Users/nistetsurooy/workspace/KaToracker/main.cpp4300885448#38475"    cd /Users/nistetsurooy/workspace/KaToracker    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Release/KaToracker.build/KaToracker.hmap -F/Users/nistetsurooy/workspace/KaToracker/build/Release -I/Users/nistetsurooy/workspace/KaToracker/build/Release/include -I/opt/local/include -I/opt/local/include/atk-1.0 -I/opt/local/include/atkmm-1.6 -I/opt/local/include/boost -I/opt/local/include/cairo -I/opt/local/include/cairomm-1.0 -I/opt/local/include/cppunit -I/opt/local/include/db46 -I/opt/local/include/dc1394 -I/opt/local/include/dirac -I/opt/local/include/fontconfig -I/opt/local/include/freetype2 -I/opt/local/include/gail-1.0 -I/opt/local/include/gdkmm-2.4 -I/opt/local/include/gio-unix-2.0 -I/opt/local/include/giomm-2.4 -I/opt/local/include/glib-2.0 -I/opt/local/include/glibmm-2.4 -I/opt/local/include/gtk-2.0 -I/opt/local/include/gtk-unix-print-2.0 -I/opt/local/include/gtkmm-2.4 -I/opt/local/include/jasper -I/opt/local/include/lame -I/opt/local/include/libavcodec -I/opt/local/include/libavdevice -I/opt/local/include/libavfilter -I/opt/local/include/libavformat -I/opt/local/include/libavutil -I/opt/local/include/libexslt -I/opt/local/include/libltdl -I/opt/local/include/liboil-0.3 -I/opt/local/include/libpng12 -I/opt/local/include/libpostproc -I/opt/local/include/libswscale -I/opt/local/include/libxml2 -I/opt/local/include/libxslt -I/opt/local/include/libyasm -I/opt/local/include/ncurses -I/opt/local/include/ncursesw -I/opt/local/include/ogg -I/opt/local/include/opencv -I/opt/local/include/openssl -I/opt/local/include/orc-0.4 -I/opt/local/include/pango-1.0 -I/opt/local/include/pangomm-1.4 -I/opt/local/include/pixman-1 -I/opt/local/include/rarian -I/opt/local/include/readline -I/opt/local/include/schroedinger-1.0 -I/opt/local/include/SDL -I/opt/local/include/sigc++-2.0 -I/opt/local/include/speex -I/opt/local/include/theora -I/opt/local/include/vorbis -I/opt/local/include/vpx -I/opt/local/include/vxl -I/opt/local/include/X11 -I/opt/local/include/atk-1.0/atk -I/opt/local/include/atkmm-1.6/atkmm -I/opt/local/include/boost/accumulators -I/opt/local/include/boost/algorithm -I/opt/local/include/boost/archive -I/opt/local/include/boost/asio -I/opt/local/include/boost/assign -I/opt/local/include/boost/bimap -I/opt/local/include/boost/bind -I. -I/opt/local/include/boost/compatibility -I/opt/local/include/boost/concept -I/opt/local/include/boost/concept_check -I/opt/local/include/boost/config -I/opt/local/include/boost/date_time -I/opt/local/include/boost/detail -I/opt/local/include/boost/dynamic_bitset -I/opt/local/include/boost/exception -I/opt/local/include/boost/filesystem -I/opt/local/include/boost/flyweight -I/opt/local/include/boost/format -I/opt/local/include/boost/function -I/opt/local/include/boost/function_types -I/opt/local/include/boost/functional -I/opt/local/include/boost/fusion -I/opt/local/include/boost/gil -I/opt/local/include/boost/graph -I/opt/local/include/boost/integer -I/opt/local/include/boost/interprocess -I/opt/local/include/boost/intrusive -I/opt/local/include/boost/io -I/opt/local/include/boost/iostreams -I/opt/local/include/boost/iterator -I/opt/local/include/boost/lambda -I/opt/local/include/boost/logic -I/opt/local/include/boost/math -I/opt/local/include/boost/mpi -I/opt/local/include/boost/mpl -I/opt/local/include/boost/multi_array -I/opt/local/include/boost/multi_index -I/opt/local/include/boost/numeric -I/opt/local/include/boost/optional -I/opt/local/include/boost/parameter -I/opt/local/include/boost/pending -I/opt/local/include/boost/pool -I/opt/local/include/boost/preprocessor -I. -I/opt/local/include/boost/property_map -I/opt/local/include/boost/property_tree -I/opt/local/include/boost/proto -I/opt/local/include/boost/ptr_container -I/opt/local/include/boost/python -I/opt/local/include/boost/random -I/opt/local/include/boost/range -I/opt/local/include/boost/regex -I/opt/local/include/boost/serialization -I/opt/local/include/boost/signals -I/opt/local/include/boost/signals2 -I/opt/local/include/boost/smart_ptr -I/opt/local/include/boost/spirit -I/opt/local/include/boost/statechart -I/opt/local/include/boost/system -I/opt/local/include/boost/test -I/opt/local/include/boost/thread -I/opt/local/include/boost/tr1 -I/opt/local/include/boost/tuple -I/opt/local/include/boost/type_traits -I/opt/local/include/boost/typeof -I/opt/local/include/boost/units -I/opt/local/include/boost/unordered -I/opt/local/include/boost/utility -I/opt/local/include/boost/uuid -I/opt/local/include/boost/variant -I/opt/local/include/boost/wave -I/opt/local/include/boost/xpressive -I/opt/local/include/cairomm-1.0/cairomm -I/opt/local/include/cppunit/config -I/opt/local/include/cppunit/extensions -I/opt/local/include/cppunit/plugin -I/opt/local/include/cppunit/portability -I/opt/local/include/cppunit/tools -I/opt/local/include/cppunit/ui -I/opt/local/include/dc1394/macosx -I/opt/local/include/dc1394/vendor -I. -I/opt/local/include/dirac/libdirac_decoder -I/opt/local/include/dirac/libdirac_encoder -I/opt/local/include/freetype2/freetype -I/opt/local/include/gail-1.0/gail -I. -I/opt/local/include/gdkmm-2.4/gdkmm -I/opt/local/include/gio-unix-2.0/gio -I/opt/local/include/giomm-2.4/giomm -I/opt/local/include/glib-2.0/gio -I/opt/local/include/glib-2.0/glib -I/opt/local/include/glib-2.0/gobject -I/opt/local/include/glibmm-2.4/glibmm -I/opt/local/include/glibmm-2.4/glibmm_generate_extra_defs -I/opt/local/include/gtk-2.0/gdk -I/opt/local/include/gtk-2.0/gdk-pixbuf -I/opt/local/include/gtk-2.0/gdk-pixbuf-xlib -I/opt/local/include/gtk-2.0/gtk -I/opt/local/include/gtk-unix-print-2.0/gtk -I/opt/local/include/gtkmm-2.4/gtkmm -I/opt/local/include/liboil-0.3/liboil -I/opt/local/include/libxml2/libxml -I/opt/local/include/orc-0.4/orc -I/opt/local/include/orc-0.4/orc-test -I/opt/local/include/pango-1.0/pango -I/opt/local/include/pangomm-1.4/pangomm -I/opt/local/include/schroedinger-1.0/schroedinger -I/opt/local/include/sigc++-2.0/sigc++ -I/opt/local/include/vxl/contrib -I/opt/local/include/vxl/core -I/opt/local/include/vxl/v3p -I/opt/local/include/vxl/vcl -I/opt/local/include/X11/extensions -I/opt/local/include/X11/ICE -I/opt/local/include/X11/SM -I/opt/local/include/X11/Xcursor -I/opt/local/include/X11/Xft -I/opt/local/include/X11/Xtrans -I/opt/local/include/atkmm-1.6/atkmm/private -I/opt/local/include/boost/accumulators/framework -I/opt/local/include/boost/accumulators/numeric -I/opt/local/include/boost/accumulators/statistics -I/opt/local/include/boost/algorithm/string -I/opt/local/include/boost/archive/detail -I/opt/local/include/boost/archive/impl -I/opt/local/include/boost/archive/iterators -I/opt/local/include/boost/asio/detail -I/opt/local/include/boost/asio/impl -I/opt/local/include/boost/asio/ip -I/opt/local/include/boost/asio/local -I/opt/local/include/boost/asio/posix -I/opt/local/include/boost/asio/ssl -I/opt/local/include/boost/asio/windows -I/opt/local/include/boost/assign/std -I/opt/local/include/boost/bimap/container_adaptor -I/opt/local/include/boost/bimap/detail -I/opt/local/include/boost/bimap/property_map -I/opt/local/include/boost/bimap/relation -I/opt/local/include/boost/bimap/support -I/opt/local/include/boost/bimap/tags -I/opt/local/include/boost/bimap/views -I/opt/local/include/boost/compatibility/cpp_c_headers -I/opt/local/include/boost/concept/detail -I/opt/local/include/boost/config/abi -I. -I/opt/local/include/boost/config/no_tr1 -I. -I/opt/local/include/boost/config/stdlib -I/opt/local/include/boost/date_time/gregorian -I/opt/local/include/boost/date_time/local_time -I/opt/local/include/boost/date_time/posix_time -I/opt/local/include/boost/exception/detail -I/opt/local/include/boost/flyweight/detail -I/opt/local/include/boost/format/detail -I. -I/opt/local/include/boost/function_types/config -I/opt/local/include/boost/function_types/detail -I/opt/local/include/boost/functional/detail -I. -I/opt/local/include/boost/fusion/adapted -I/opt/local/include/boost/fusion/algorithm -I/opt/local/include/boost/fusion/container -I/opt/local/include/boost/fusion/functional -I/opt/local/include/boost/fusion/include -I. -I/opt/local/include/boost/fusion/mpl -I. -I/opt/local/include/boost/fusion/support -I/opt/local/include/boost/fusion/tuple -I/opt/local/include/boost/fusion/view -I/opt/local/include/boost/gil/extension -I/opt/local/include/boost/graph/detail -I/opt/local/include/boost/graph/distributed -I/opt/local/include/boost/graph/parallel -I/opt/local/include/boost/graph/planar_detail -I/opt/local/include/boost/graph/property_maps -I/opt/local/include/boost/interprocess/allocators -I/opt/local/include/boost/interprocess/containers -I/opt/local/include/boost/interprocess/detail -I/opt/local/include/boost/interprocess/indexes -I/opt/local/include/boost/interprocess/ipc -I/opt/local/include/boost/interprocess/mem_algo -I/opt/local/include/boost/interprocess/smart_ptr -I/opt/local/include/boost/interprocess/streams -I/opt/local/include/boost/interprocess/sync -I/opt/local/include/boost/intrusive/detail -I/opt/local/include/boost/iostreams/detail -I/opt/local/include/boost/iostreams/device -I/opt/local/include/boost/iostreams/filter -I. -I/opt/local/include/boost/lambda/detail -I/opt/local/include/boost/math/bindings -I/opt/local/include/boost/math/complex -I/opt/local/include/boost/math/concepts -I/opt/local/include/boost/math/constants -I/opt/local/include/boost/math/distributions -I/opt/local/include/boost/math/policies -I/opt/local/include/boost/math/special_functions -I/opt/local/include/boost/math/tools -I. -I/opt/local/include/boost/mpi/detail -I/opt/local/include/boost/mpi/python -I/opt/local/include/boost/mpl/aux_ -I/opt/local/include/boost/mpl/limits -I/opt/local/include/boost/mpl/list -I/opt/local/include/boost/mpl/map -I/opt/local/include/boost/mpl/math -I/opt/local/include/boost/mpl/multiset -I/opt/local/include/boost/mpl/set -I/opt/local/include/boost/mpl/vector -I/opt/local/include/boost/multi_index/detail -I/opt/local/include/boost/numeric/conversion -I/opt/local/include/boost/numeric/interval -I/opt/local/include/boost/numeric/ublas -I/opt/local/include/boost/parameter/aux_ -I/opt/local/include/boost/pending/detail -I/opt/local/include/boost/pool/detail -I/opt/local/include/boost/preprocessor/arithmetic -I/opt/local/include/boost/preprocessor/array -I/opt/local/include/boost/preprocessor/comparison -I/opt/local/include/boost/preprocessor/config -I/opt/local/include/boost/preprocessor/control -I/opt/local/include/boost/preprocessor/debug -I/opt/local/include/boost/preprocessor/detail -I/opt/local/include/boost/preprocessor/facilities -I/opt/local/include/boost/preprocessor/iteration -I/opt/local/include/boost/preprocessor/list -I/opt/local/include/boost/preprocessor/logical -I/opt/local/include/boost/preprocessor/punctuation -I/opt/local/include/boost/preprocessor/repetition -I/opt/local/include/boost/preprocessor/selection -I/opt/local/include/boost/preprocessor/seq -I/opt/local/include/boost/preprocessor/slot -I/opt/local/include/boost/preprocessor/tuple -I/opt/local/include/boost/program_options/detail -I/opt/local/include/boost/property_map/parallel -I/opt/local/include/boost/property_tree/detail -I/opt/local/include/boost/proto/context -I/opt/local/include/boost/proto/detail -I. -I/opt/local/include/boost/ptr_container/detail -I/opt/local/include/boost/python/converter -I/opt/local/include/boost/python/detail -I/opt/local/include/boost/python/object -I/opt/local/include/boost/python/suite -I/opt/local/include/boost/random/detail -I/opt/local/include/boost/range/detail -I/opt/local/include/boost/regex/config -I/opt/local/include/boost/regex/pending -I/opt/local/include/boost/regex/v4 -I/opt/local/include/boost/serialization/detail -I/opt/local/include/boost/signals/detail -I. -I/opt/local/include/boost/smart_ptr/detail -I/opt/local/include/boost/spirit/actor -I/opt/local/include/boost/spirit/attribute -I/opt/local/include/boost/spirit/core -I/opt/local/include/boost/spirit/debug -I/opt/local/include/boost/spirit/dynamic -I/opt/local/include/boost/spirit/error_handling -I/opt/local/include/boost/spirit/home -I/opt/local/include/boost/spirit/include -I. -I/opt/local/include/boost/spirit/meta -I/opt/local/include/boost/spirit/phoenix -I/opt/local/include/boost/spirit/repository -I/opt/local/include/boost/spirit/symbols -I/opt/local/include/boost/spirit/tree -I/opt/local/include/boost/spirit/utility -I/opt/local/include/boost/statechart/detail -I/opt/local/include/boost/test/detail -I/opt/local/include/boost/test/impl -I/opt/local/include/boost/test/included -I/opt/local/include/boost/test/output -I/opt/local/include/boost/test/utils -I/opt/local/include/boost/thread/detail -I/opt/local/include/boost/thread/pthread -I/opt/local/include/boost/thread/win32 -I/opt/local/include/boost/tr1/detail -I/opt/local/include/boost/tr1/tr1 -I/opt/local/include/boost/tuple/detail -I/opt/local/include/boost/type_traits/detail -I/opt/local/include/boost/type_traits/msvc -I/opt/local/include/boost/typeof/dmc -I/opt/local/include/boost/typeof/msvc -I/opt/local/include/boost/typeof/std -I/opt/local/include/boost/units/base_units -I/opt/local/include/boost/units/detail -I/opt/local/include/boost/units/physical_dimensions -I/opt/local/include/boost/units/systems -I/opt/local/include/boost/unordered/detail -I/opt/local/include/boost/utility/detail -I/opt/local/include/boost/variant/detail -I/opt/local/include/boost/wave/cpplexer -I/opt/local/include/boost/wave/grammars -I/opt/local/include/boost/wave/util -I/opt/local/include/boost/xpressive/detail -I/opt/local/include/boost/xpressive/traits -I/opt/local/include/cppunit/ui/mfc -I/opt/local/include/cppunit/ui/qt -I/opt/local/include/cppunit/ui/text -I/opt/local/include/freetype2/freetype/config -I/opt/local/include/gdkmm-2.4/gdkmm/private -I/opt/local/include/giomm-2.4/giomm/private -I/opt/local/include/glibmm-2.4/glibmm/private -I/opt/local/include/gtkmm-2.4/gtkmm/private -I/opt/local/include/pangomm-1.4/pangomm/private -I/opt/local/include/sigc++-2.0/sigc++/adaptors -I/opt/local/include/sigc++-2.0/sigc++/functors -I/opt/local/include/vxl/contrib/conversions -I/opt/local/include/vxl/contrib/gel -I/opt/local/include/vxl/contrib/mul -I/opt/local/include/vxl/contrib/oul -I/opt/local/include/vxl/contrib/oxl -I/opt/local/include/vxl/contrib/prip -I/opt/local/include/vxl/contrib/rpl -I/opt/local/include/vxl/contrib/tbl -I/opt/local/include/vxl/core/testlib -I/opt/local/include/vxl/core/vbl -I/opt/local/include/vxl/core/vcsl -I/opt/local/include/vxl/core/vgl -I/opt/local/include/vxl/core/vidl -I/opt/local/include/vxl/core/vidl_vil1 -I/opt/local/include/vxl/core/vil -I/opt/local/include/vxl/core/vil1 -I/opt/local/include/vxl/core/vnl -I/opt/local/include/vxl/core/vpl -I/opt/local/include/vxl/core/vsl -I/opt/local/include/vxl/core/vul -I/opt/local/include/vxl/v3p/netlib -I/opt/local/include/vxl/vcl/borland55 -I/opt/local/include/vxl/vcl/borland56 -I/opt/local/include/vxl/vcl/egcs -I/opt/local/include/vxl/vcl/emulation -I/opt/local/include/vxl/vcl/gcc -I/opt/local/include/vxl/vcl/gcc-295 -I/opt/local/include/vxl/vcl/gcc-libstdcxx-v3 -I/opt/local/include/vxl/vcl/generic -I/opt/local/include/vxl/vcl/internal -I/opt/local/include/vxl/vcl/iso -I/opt/local/include/vxl/vcl/mwerks -I/opt/local/include/vxl/vcl/sgi -I/opt/local/include/vxl/vcl/stlport -I/opt/local/include/vxl/vcl/sunpro -I/opt/local/include/vxl/vcl/vcl_sys -I/opt/local/include/vxl/vcl/win32-vc60 -I/opt/local/include/vxl/vcl/win32-vc70 -I/opt/local/include/boost/accumulators/framework/accumulators -I/opt/local/include/boost/accumulators/framework/parameters -I/opt/local/include/boost/accumulators/numeric/detail -I/opt/local/include/boost/accumulators/numeric/functional -I/opt/local/include/boost/accumulators/statistics/parameters -I/opt/local/include/boost/accumulators/statistics/variates -I/opt/local/include/boost/algorithm/string/detail -I/opt/local/include/boost/algorithm/string/std -I/opt/local/include/boost/asio/ip/detail -I. -I/opt/local/include/boost/bimap/container_adaptor/detail -I/opt/local/include/boost/bimap/container_adaptor/support -I/opt/local/include/boost/bimap/detail/debug -I/opt/local/include/boost/bimap/detail/test -I/opt/local/include/boost/bimap/relation/detail -I/opt/local/include/boost/bimap/relation/support -I/opt/local/include/boost/bimap/tags/support -I/opt/local/include/boost/function_types/detail/classifier_impl -I/opt/local/include/boost/function_types/detail/components_impl -I/opt/local/include/boost/function_types/detail/encoding -I/opt/local/include/boost/function_types/detail/pp_cc_loop -I/opt/local/include/boost/function_types/detail/pp_retag_default_cc -I/opt/local/include/boost/function_types/detail/pp_tags -I/opt/local/include/boost/function_types/detail/pp_variate_loop -I/opt/local/include/boost/function_types/detail/synthesize_impl -I/opt/local/include/boost/functional/hash/detail -I/opt/local/include/boost/fusion/adapted/array -I/opt/local/include/boost/fusion/adapted/boost_tuple -I/opt/local/include/boost/fusion/adapted/mpl -I/opt/local/include/boost/fusion/adapted/std_pair -I/opt/local/include/boost/fusion/adapted/struct -I/opt/local/include/boost/fusion/algorithm/iteration -I/opt/local/include/boost/fusion/algorithm/query -I/opt/local/include/boost/fusion/algorithm/transformation -I/opt/local/include/boost/fusion/container/deque -I/opt/local/include/boost/fusion/container/ext_ -I/opt/local/include/boost/fusion/container/generation -I/opt/local/include/boost/fusion/container/list -I/opt/local/include/boost/fusion/container/map -I/opt/local/include/boost/fusion/container/set -I/opt/local/include/boost/fusion/container/vector -I/opt/local/include/boost/fusion/functional/adapter -I/opt/local/include/boost/fusion/functional/generation -I/opt/local/include/boost/fusion/functional/invocation -I/opt/local/include/boost/fusion/iterator/detail -I/opt/local/include/boost/fusion/iterator/mpl -I/opt/local/include/boost/fusion/mpl/detail -I/opt/local/include/boost/fusion/sequence/comparison -I/opt/local/include/boost/fusion/sequence/intrinsic -I/opt/local/include/boost/fusion/sequence/io -I/opt/local/include/boost/fusion/support/detail -I/opt/local/include/boost/fusion/support/ext_ -I/opt/local/include/boost/fusion/tuple/detail -I/opt/local/include/boost/fusion/view/detail -I/opt/local/include/boost/fusion/view/ext_ -I/opt/local/include/boost/fusion/view/filter_view -I/opt/local/include/boost/fusion/view/iterator_range -I/opt/local/include/boost/fusion/view/joint_view -I/opt/local/include/boost/fusion/view/nview -I/opt/local/include/boost/fusion/view/repetitive_view -I/opt/local/include/boost/fusion/view/reverse_view -I/opt/local/include/boost/fusion/view/single_view -I/opt/local/include/boost/fusion/view/transform_view -I/opt/local/include/boost/fusion/view/zip_view -I/opt/local/include/boost/gil/extension/dynamic_image -I/opt/local/include/boost/gil/extension/io -I/opt/local/include/boost/graph/distributed/adjlist -I/opt/local/include/boost/graph/distributed/detail -I/opt/local/include/boost/graph/parallel/detail -I/opt/local/include/boost/interprocess/allocators/detail -I/opt/local/include/boost/interprocess/containers/container -I/opt/local/include/boost/interprocess/mem_algo/detail -I/opt/local/include/boost/interprocess/smart_ptr/detail -I/opt/local/include/boost/interprocess/sync/emulation -I/opt/local/include/boost/interprocess/sync/posix -I/opt/local/include/boost/interprocess/sync/xsi -I/opt/local/include/boost/iostreams/detail/adapter -I/opt/local/include/boost/iostreams/detail/broken_overload_resolution -I/opt/local/include/boost/iostreams/detail/config -I/opt/local/include/boost/iostreams/detail/streambuf -I/opt/local/include/boost/iostreams/detail/vc6 -I/opt/local/include/boost/math/bindings/detail -I/opt/local/include/boost/math/distributions/detail -I/opt/local/include/boost/math/special_functions/detail -I/opt/local/include/boost/math/tools/detail -I. -I/opt/local/include/boost/mpl/aux_/preprocessed -I/opt/local/include/boost/mpl/aux_/preprocessor -I/opt/local/include/boost/mpl/aux_/range_c -I/opt/local/include/boost/mpl/aux_/test -I/opt/local/include/boost/mpl/list/aux_ -I/opt/local/include/boost/mpl/map/aux_ -I/opt/local/include/boost/mpl/multiset/aux_ -I/opt/local/include/boost/mpl/set/aux_ -I. -I/opt/local/include/boost/numeric/conversion/detail -I/opt/local/include/boost/numeric/interval/compare -I/opt/local/include/boost/numeric/interval/detail -I/opt/local/include/boost/numeric/interval/ext -I/opt/local/include/boost/numeric/ublas/detail -I/opt/local/include/boost/numeric/ublas/experimental -I/opt/local/include/boost/numeric/ublas/operation -I/opt/local/include/boost/numeric/ublas/traits -I/opt/local/include/boost/parameter/aux_/preprocessor -I/opt/local/include/boost/parameter/aux_/python -I/opt/local/include/boost/preprocessor/arithmetic/detail -I/opt/local/include/boost/preprocessor/control/detail -I/opt/local/include/boost/preprocessor/detail/dmc -I/opt/local/include/boost/preprocessor/iteration/detail -I/opt/local/include/boost/preprocessor/list/detail -I/opt/local/include/boost/preprocessor/repetition/detail -I/opt/local/include/boost/preprocessor/seq/detail -I/opt/local/include/boost/preprocessor/slot/detail -I/opt/local/include/boost/property_map/parallel/impl -I/opt/local/include/boost/python/suite/indexing -I/opt/local/include/boost/range/detail/vc6 -I/opt/local/include/boost/spirit/core/composite -I/opt/local/include/boost/spirit/core/non_terminal -I/opt/local/include/boost/spirit/core/primitives -I/opt/local/include/boost/spirit/core/scanner -I/opt/local/include/boost/spirit/home/classic -I/opt/local/include/boost/spirit/home/karma -I. -I/opt/local/include/boost/spirit/home/phoenix -I/opt/local/include/boost/spirit/home/qi -I/opt/local/include/boost/spirit/home/support -I/opt/local/include/boost/spirit/repository/home -I/opt/local/include/boost/spirit/repository/include -I/opt/local/include/boost/test/utils/basic_cstring -I/opt/local/include/boost/test/utils/iterator -I/opt/local/include/boost/test/utils/runtime -I/opt/local/include/boost/tr1/tr1/bcc32 -I/opt/local/include/boost/tr1/tr1/sun -I/opt/local/include/boost/units/base_units/angle -I/opt/local/include/boost/units/base_units/astronomical -I/opt/local/include/boost/units/base_units/cgs -I/opt/local/include/boost/units/base_units/imperial -I/opt/local/include/boost/units/base_units/metric -I/opt/local/include/boost/units/base_units/si -I/opt/local/include/boost/units/base_units/temperature -I/opt/local/include/boost/units/base_units/us -I/opt/local/include/boost/units/systems/angle -I/opt/local/include/boost/units/systems/cgs -I/opt/local/include/boost/units/systems/detail -I/opt/local/include/boost/units/systems/si -I/opt/local/include/boost/units/systems/temperature -I/opt/local/include/boost/wave/cpplexer/re2clex -I/opt/local/include/boost/xpressive/detail/core -I/opt/local/include/boost/xpressive/detail/dynamic -I/opt/local/include/boost/xpressive/detail/static -I/opt/local/include/boost/xpressive/detail/utility -I/opt/local/include/boost/xpressive/traits/detail -I/opt/local/include/sigc++-2.0/sigc++/adaptors/lambda -I/opt/local/include/vxl/contrib/conversions/container -I/opt/local/include/vxl/contrib/conversions/geometry -I/opt/local/include/vxl/contrib/conversions/image -I/opt/local/include/vxl/contrib/conversions/math -I/opt/local/include/vxl/contrib/gel/geml -I/opt/local/include/vxl/contrib/gel/gevd -I/opt/local/include/vxl/contrib/gel/gkll -I/opt/local/include/vxl/contrib/gel/gmvl -I/opt/local/include/vxl/contrib/gel/gst -I/opt/local/include/vxl/contrib/gel/gtrl -I/opt/local/include/vxl/contrib/gel/mrc -I/opt/local/include/vxl/contrib/gel/vdgl -I/opt/local/include/vxl/contrib/gel/vgel -I/opt/local/include/vxl/contrib/gel/vifa -I/opt/local/include/vxl/contrib/gel/vmal -I/opt/local/include/vxl/contrib/gel/vsol -I/opt/local/include/vxl/contrib/gel/vsrl -I/opt/local/include/vxl/contrib/gel/vtol -I. -I/opt/local/include/vxl/contrib/mul/ipts -I/opt/local/include/vxl/contrib/mul/mbl -I/opt/local/include/vxl/contrib/mul/mvl2 -I. -I. -I/opt/local/include/vxl/contrib/mul/vimt -I/opt/local/include/vxl/contrib/mul/vimt3d -I. -I/opt/local/include/vxl/contrib/oul/ouel -I/opt/local/include/vxl/contrib/oul/ouml -I/opt/local/include/vxl/contrib/oxl/mvl -I/opt/local/include/vxl/contrib/oxl/osl -I/opt/local/include/vxl/contrib/oxl/oxp -I/opt/local/include/vxl/contrib/prip/vdtop -I. -I. -I/opt/local/include/vxl/contrib/rpl/rgrl -I/opt/local/include/vxl/contrib/rpl/rrel -I/opt/local/include/vxl/contrib/rpl/rsdl -I/opt/local/include/vxl/contrib/tbl/vepl -I. -I/opt/local/include/vxl/contrib/tbl/vipl -I/opt/local/include/vxl/core/vbl/io -I/opt/local/include/vxl/core/vgl/algo -I/opt/local/include/vxl/core/vgl/internals -I/opt/local/include/vxl/core/vgl/io -I/opt/local/include/vxl/core/vgl/xio -I/opt/local/include/vxl/core/vil/algo -I/opt/local/include/vxl/core/vil/file_formats -I/opt/local/include/vxl/core/vil/io -I/opt/local/include/vxl/core/vil1/file_formats -I/opt/local/include/vxl/core/vil1/io -I/opt/local/include/vxl/core/vnl/algo -I/opt/local/include/vxl/core/vnl/io -I/opt/local/include/vxl/core/vnl/xio -I/opt/local/include/vxl/core/vul/io -I/opt/local/include/vxl/v3p/netlib/blas -I/opt/local/include/vxl/v3p/netlib/datapac -I/opt/local/include/vxl/v3p/netlib/eispack -I. -I/opt/local/include/vxl/v3p/netlib/laso -I. -I/opt/local/include/vxl/v3p/netlib/linpack -I/opt/local/include/vxl/v3p/netlib/mathews -I/opt/local/include/vxl/v3p/netlib/minpack -I. -I/opt/local/include/vxl/v3p/netlib/opt -I. -I/opt/local/include/vxl/v3p/netlib/temperton -I/opt/local/include/vxl/v3p/netlib/toms -I/opt/local/include/boost/fusion/adapted/array/detail -I/opt/local/include/boost/fusion/adapted/boost_tuple/detail -I/opt/local/include/boost/fusion/adapted/mpl/detail -I/opt/local/include/boost/fusion/adapted/std_pair/detail -I/opt/local/include/boost/fusion/adapted/struct/detail -I/opt/local/include/boost/fusion/algorithm/iteration/detail -I/opt/local/include/boost/fusion/algorithm/iteration/ext_ -I/opt/local/include/boost/fusion/algorithm/query/detail -I/opt/local/include/boost/fusion/algorithm/query/ext_ -I/opt/local/include/boost/fusion/algorithm/transformation/detail -I/opt/local/include/boost/fusion/container/deque/detail -I/opt/local/include/boost/fusion/container/list/detail -I/opt/local/include/boost/fusion/container/map/detail -I/opt/local/include/boost/fusion/container/set/detail -I/opt/local/include/boost/fusion/container/vector/detail -I/opt/local/include/boost/fusion/functional/adapter/detail -I/opt/local/include/boost/fusion/functional/generation/detail -I/opt/local/include/boost/fusion/functional/invocation/detail -I/opt/local/include/boost/fusion/sequence/comparison/detail -I/opt/local/include/boost/fusion/sequence/intrinsic/ext_ -I/opt/local/include/boost/fusion/sequence/io/detail -I/opt/local/include/boost/fusion/view/filter_view/detail -I/opt/local/include/boost/fusion/view/iterator_range/detail -I/opt/local/include/boost/fusion/view/joint_view/detail -I/opt/local/include/boost/fusion/view/nview/detail -I/opt/local/include/boost/fusion/view/repetitive_view/detail -I/opt/local/include/boost/fusion/view/reverse_view/detail -I/opt/local/include/boost/fusion/view/single_view/detail -I/opt/local/include/boost/fusion/view/transform_view/detail -I/opt/local/include/boost/fusion/view/zip_view/detail -I/opt/local/include/boost/interprocess/containers/container/detail -I/opt/local/include/boost/mpl/aux_/preprocessed/bcc -I/opt/local/include/boost/mpl/aux_/preprocessed/bcc551 -I/opt/local/include/boost/mpl/aux_/preprocessed/bcc_pre590 -I/opt/local/include/boost/mpl/aux_/preprocessed/dmc -I/opt/local/include/boost/mpl/aux_/preprocessed/gcc -I/opt/local/include/boost/mpl/aux_/preprocessed/msvc60 -I/opt/local/include/boost/mpl/aux_/preprocessed/msvc70 -I/opt/local/include/boost/mpl/aux_/preprocessed/mwcw -I/opt/local/include/boost/mpl/aux_/preprocessed/no_ctps -I/opt/local/include/boost/mpl/aux_/preprocessed/no_ttp -I/opt/local/include/boost/mpl/aux_/preprocessed/plain -I/opt/local/include/boost/mpl/list/aux_/preprocessed -I/opt/local/include/boost/mpl/map/aux_/preprocessed -I/opt/local/include/boost/mpl/set/aux_/preprocessed -I/opt/local/include/boost/mpl/vector/aux_/preprocessed -I/opt/local/include/boost/preprocessor/control/detail/dmc -I/opt/local/include/boost/preprocessor/control/detail/edg -I/opt/local/include/boost/preprocessor/control/detail/msvc -I/opt/local/include/boost/preprocessor/iteration/detail/bounds -I/opt/local/include/boost/preprocessor/iteration/detail/iter -I/opt/local/include/boost/preprocessor/list/detail/dmc -I/opt/local/include/boost/preprocessor/list/detail/edg -I/opt/local/include/boost/preprocessor/repetition/detail/dmc -I/opt/local/include/boost/preprocessor/repetition/detail/edg -I/opt/local/include/boost/preprocessor/repetition/detail/msvc -I/opt/local/include/boost/python/suite/indexing/detail -I/opt/local/include/boost/spirit/home/classic/actor -I/opt/local/include/boost/spirit/home/classic/attribute -I/opt/local/include/boost/spirit/home/classic/core -I/opt/local/include/boost/spirit/home/classic/debug -I/opt/local/include/boost/spirit/home/classic/dynamic -I/opt/local/include/boost/spirit/home/classic/error_handling -I/opt/local/include/boost/spirit/home/classic/iterator -I/opt/local/include/boost/spirit/home/classic/meta -I/opt/local/include/boost/spirit/home/classic/phoenix -I/opt/local/include/boost/spirit/home/classic/symbols -I/opt/local/include/boost/spirit/home/classic/tree -I/opt/local/include/boost/spirit/home/classic/utility -I/opt/local/include/boost/spirit/home/karma/action -I/opt/local/include/boost/spirit/home/karma/auto -I/opt/local/include/boost/spirit/home/karma/auxiliary -I/opt/local/include/boost/spirit/home/karma/binary -I/opt/local/include/boost/spirit/home/karma/char -I/opt/local/include/boost/spirit/home/karma/detail -I/opt/local/include/boost/spirit/home/karma/directive -I/opt/local/include/boost/spirit/home/karma/nonterminal -I/opt/local/include/boost/spirit/home/karma/numeric -I/opt/local/include/boost/spirit/home/karma/operator -I/opt/local/include/boost/spirit/home/karma/stream -I/opt/local/include/boost/spirit/home/karma/string -I/opt/local/include/boost/spirit/home/lex/detail -I/opt/local/include/boost/spirit/home/lex/lexer -I/opt/local/include/boost/spirit/home/lex/qi -I/opt/local/include/boost/spirit/home/phoenix/bind -I/opt/local/include/boost/spirit/home/phoenix/core -I/opt/local/include/boost/spirit/home/phoenix/detail -I/opt/local/include/boost/spirit/home/phoenix/function -I/opt/local/include/boost/spirit/home/phoenix/fusion -I/opt/local/include/boost/spirit/home/phoenix/object -I/opt/local/include/boost/spirit/home/phoenix/operator -I/opt/local/include/boost/spirit/home/phoenix/scope -I/opt/local/include/boost/spirit/home/phoenix/statement -I/opt/local/include/boost/spirit/home/phoenix/stl -I/opt/local/include/boost/spirit/home/qi/action -I/opt/local/include/boost/spirit/home/qi/auto -I/opt/local/include/boost/spirit/home/qi/auxiliary -I/opt/local/include/boost/spirit/home/qi/binary -I/opt/local/include/boost/spirit/home/qi/char -I/opt/local/include/boost/spirit/home/qi/detail -I/opt/local/include/boost/spirit/home/qi/directive -I/opt/local/include/boost/spirit/home/qi/nonterminal -I/opt/local/include/boost/spirit/home/qi/numeric -I/opt/local/include/boost/spirit/home/qi/operator -I/opt/local/include/boost/spirit/home/qi/stream -I/opt/local/include/boost/spirit/home/qi/string -I/opt/local/include/boost/spirit/home/support/algorithm -I/opt/local/include/boost/spirit/home/support/auto -I/opt/local/include/boost/spirit/home/support/auxiliary -I/opt/local/include/boost/spirit/home/support/char_encoding -I/opt/local/include/boost/spirit/home/support/char_set -I/opt/local/include/boost/spirit/home/support/detail -I/opt/local/include/boost/spirit/home/support/iterators -I/opt/local/include/boost/spirit/home/support/nonterminal -I/opt/local/include/boost/spirit/repository/home/karma -I/opt/local/include/boost/spirit/repository/home/qi -I/opt/local/include/boost/spirit/repository/home/support -I/opt/local/include/boost/test/utils/runtime/cla -I/opt/local/include/boost/test/utils/runtime/env -I/opt/local/include/boost/test/utils/runtime/file -I/opt/local/include/boost/units/systems/si/codata -I/opt/local/include/boost/xpressive/detail/core/matcher -I/opt/local/include/boost/xpressive/detail/static/transforms -I/opt/local/include/boost/xpressive/detail/utility/chset -I/opt/local/include/vxl/contrib/gel/mrc/vpgl -I/opt/local/include/vxl/contrib/gel/vgel/kl -I/opt/local/include/vxl/contrib/gel/vtol/algo -I/opt/local/include/vxl/contrib/mul/vil3d/algo -I/opt/local/include/vxl/contrib/mul/vil3d/file_formats -I/opt/local/include/vxl/contrib/mul/vil3d/io -I/opt/local/include/vxl/contrib/mul/vimt/algo -I/opt/local/include/vxl/contrib/oxl/osl/internals -I/opt/local/include/vxl/contrib/tbl/vepl2/accessors -I/opt/local/include/vxl/contrib/tbl/vepl2/section -I/opt/local/include/vxl/contrib/tbl/vipl/accessors -I/opt/local/include/vxl/contrib/tbl/vipl/filter -I/opt/local/include/vxl/contrib/tbl/vipl/section -I/opt/local/include/vxl/contrib/tbl/vipl/vipl_with_section -I/opt/local/include/vxl/contrib/tbl/vipl/vipl_with_vbl_array_2d -I/opt/local/include/vxl/contrib/tbl/vipl/vipl_with_vnl_matrix -I/opt/local/include/vxl/v3p/netlib/lapack/complex16 -I/opt/local/include/vxl/v3p/netlib/lapack/double -I/opt/local/include/vxl/v3p/netlib/lapack/single -I/opt/local/include/vxl/v3p/netlib/lapack/util -I/opt/local/include/boost/mpl/list/aux_/preprocessed/plain -I/opt/local/include/boost/mpl/map/aux_/preprocessed/no_ctps -I/opt/local/include/boost/mpl/map/aux_/preprocessed/plain -I/opt/local/include/boost/mpl/map/aux_/preprocessed/typeof_based -I/opt/local/include/boost/mpl/set/aux_/preprocessed/plain -I/opt/local/include/boost/mpl/vector/aux_/preprocessed/no_ctps -I/opt/local/include/boost/mpl/vector/aux_/preprocessed/plain -I/opt/local/include/boost/mpl/vector/aux_/preprocessed/typeof_based -I/opt/local/include/boost/spirit/home/classic/core/composite -I/opt/local/include/boost/spirit/home/classic/core/impl -I/opt/local/include/boost/spirit/home/classic/core/non_terminal -I/opt/local/include/boost/spirit/home/classic/core/primitives -I/opt/local/include/boost/spirit/home/classic/core/scanner -I/opt/local/include/boost/spirit/home/classic/debug/impl -I/opt/local/include/boost/spirit/home/classic/dynamic/impl -I/opt/local/include/boost/spirit/home/classic/error_handling/impl -I/opt/local/include/boost/spirit/home/classic/iterator/impl -I/opt/local/include/boost/spirit/home/classic/meta/impl -I/opt/local/include/boost/spirit/home/classic/symbols/impl -I/opt/local/include/boost/spirit/home/classic/tree/impl -I/opt/local/include/boost/spirit/home/classic/utility/impl -I/opt/local/include/boost/spirit/home/karma/nonterminal/detail -I/opt/local/include/boost/spirit/home/karma/numeric/detail -I/opt/local/include/boost/spirit/home/karma/stream/detail -I/opt/local/include/boost/spirit/home/lex/lexer/lexertl -I/opt/local/include/boost/spirit/home/phoenix/bind/detail -I/opt/local/include/boost/spirit/home/phoenix/core/detail -I/opt/local/include/boost/spirit/home/phoenix/function/detail -I/opt/local/include/boost/spirit/home/phoenix/object/detail -I/opt/local/include/boost/spirit/home/phoenix/operator/detail -I/opt/local/include/boost/spirit/home/phoenix/scope/detail -I/opt/local/include/boost/spirit/home/phoenix/statement/detail -I/opt/local/include/boost/spirit/home/phoenix/stl/algorithm -I/opt/local/include/boost/spirit/home/phoenix/stl/container -I/opt/local/include/boost/spirit/home/qi/nonterminal/detail -I/opt/local/include/boost/spirit/home/qi/numeric/detail -I/opt/local/include/boost/spirit/home/qi/stream/detail -I/opt/local/include/boost/spirit/home/qi/string/detail -I/opt/local/include/boost/spirit/home/support/detail/integer -I/opt/local/include/boost/spirit/home/support/detail/lexer -I/opt/local/include/boost/spirit/home/support/detail/math -I/opt/local/include/boost/spirit/home/support/iterators/detail -I/opt/local/include/boost/spirit/repository/home/karma/directive -I/opt/local/include/boost/spirit/repository/home/karma/nonterminal -I/opt/local/include/boost/spirit/repository/home/qi/directive -I/opt/local/include/boost/spirit/repository/home/qi/nonterminal -I/opt/local/include/boost/spirit/repository/home/qi/primitive -I/opt/local/include/boost/test/utils/runtime/cla/detail -I/opt/local/include/boost/test/utils/runtime/cla/iface -I/opt/local/include/vxl/contrib/gel/mrc/vpgl/bgeo -I/opt/local/include/vxl/contrib/gel/mrc/vpgl/xio -I/opt/local/include/vxl/contrib/tbl/vipl/vipl_with_section/accessors -I/opt/local/include/vxl/contrib/tbl/vipl/vipl_with_vbl_array_2d/accessors -I/opt/local/include/vxl/contrib/tbl/vipl/vipl_with_vnl_matrix/accessors -I/opt/local/include/boost/spirit/home/classic/core/composite/impl -I/opt/local/include/boost/spirit/home/classic/core/non_terminal/impl -I/opt/local/include/boost/spirit/home/classic/core/primitives/impl -I/opt/local/include/boost/spirit/home/classic/core/scanner/impl -I/opt/local/include/boost/spirit/home/classic/utility/impl/chset -I/opt/local/include/boost/spirit/home/phoenix/stl/algorithm/detail -I/opt/local/include/boost/spirit/home/phoenix/stl/container/detail -I/opt/local/include/boost/spirit/home/support/detail/lexer/containers -I/opt/local/include/boost/spirit/home/support/detail/lexer/conversion -I/opt/local/include/boost/spirit/home/support/detail/lexer/parser -I/opt/local/include/boost/spirit/home/support/detail/lexer/partition -I/opt/local/include/boost/spirit/home/support/detail/math/detail -I/opt/local/include/boost/spirit/home/support/detail/lexer/parser/tokeniser -I/opt/local/include/boost/spirit/home/support/detail/lexer/parser/tree -I/Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Release/KaToracker.build/DerivedSources/x86_64 -I/Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Release/KaToracker.build/DerivedSources -c /Users/nistetsurooy/workspace/KaToracker/main.cpp -o /Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Release/KaToracker.build/Objects-normal/x86_64/main.o1#
+
+CGenerateDSYMFile /Users/nistetsurooy/workspace/KaToracker/build/Release/KaToracker.dSYM /Users/nistetsurooy/workspace/KaToracker/build/Release/KaToracker
+r0
+
+CLd /Users/nistetsurooy/workspace/KaToracker/build/Release/KaToracker normal x86_64
+r0
+

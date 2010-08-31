@@ -1,0 +1,869 @@
+TKaToracker
+v7
+r0
+t304142722.246422
+cCheck dependencies
+cCompileC build/KaToracker.build/Debug/KaToracker.build/Objects-normal/x86_64/main.o /Users/nistetsurooy/workspace/KaToracker/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/KaToracker.build/Debug/KaToracker.build/Objects-normal/x86_64/ParticleFilter.o /Users/nistetsurooy/workspace/KaToracker/ParticleFilter.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/KaToracker.build/Debug/KaToracker.build/Objects-normal/x86_64/Window.o /Users/nistetsurooy/workspace/KaToracker/Window.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/KaToracker.build/Debug/KaToracker.build/Objects-normal/x86_64/ColorSubspace.o /Users/nistetsurooy/workspace/KaToracker/ColorSubspace.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/KaToracker.build/Debug/KaToracker.build/Objects-normal/x86_64/motionCue.o /Users/nistetsurooy/workspace/KaToracker/motionCue.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/nistetsurooy/workspace/KaToracker/build/Debug/KaToracker normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004ABBF0FD00000000000000EE
+t1253830909
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/OpenCV.framework/Headers/OpenCV.h
+c000000004C616B5100000000000002BC
+t1281452881
+s700
+
+N/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/OpenCV.framework/Headers/cv.hpp
+c00000000496B6EAF00000000000041C8
+t1231777455
+s16840
+
+N/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/OpenCV.framework/OpenCV
+c00000000496B6F6E0000000000646154
+t1231777646
+s6578516
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/alloca.h
+c000000004A5C14A60000000000000588
+t1247548582
+s1416
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/assert.h
+c000000004A5C14A60000000000000DCB
+t1247548582
+s3531
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004A5C14A70000000000002DF5
+t1247548583
+s11765
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004A5C14A70000000000001731
+t1247548583
+s5937
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/emmintrin.h
+c000000004A11EB24000000000000EA8F
+t1242688292
+s60047
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/float.h
+c000000004A11EB240000000000001538
+t1242688292
+s5432
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/limits.h
+c000000004A11EB240000000000000C7E
+t1242688292
+s3198
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdint.h
+c000000004A11EB24000000000000190C
+t1242688292
+s6412
+
+N/System/Library/Frameworks/OpenCV.framework/OpenCV
+c000000004B5F12CE0000000000F01FCC
+t1264521934
+s15736780
+
+N/Users/nistetsurooy/workspace/KaToracker/ColorSubspace.cpp
+c000000004C6F40EB0000000000000719
+t1282359531
+s1817
+i"ParticleFilter.h"
+
+N/Users/nistetsurooy/workspace/KaToracker/ParticleFilter.cpp
+c000000004C6F533C000000000000143E
+t1282364220
+s5182
+i"ParticleFilter.h"
+
+N/Users/nistetsurooy/workspace/KaToracker/ParticleFilter.h
+c000000004C708E8B00000000000008F1
+t1282444939
+s2289
+i<vector>
+i<opencv.hpp>
+i"ParticleFilter.h"
+
+N/Users/nistetsurooy/workspace/KaToracker/UIhelper.cpp
+c000000004C66455B00000000000000A4
+t1281770843
+s164
+i"UIhelper.h"
+
+N/Users/nistetsurooy/workspace/KaToracker/UIhelper.h
+c000000004C66455B000000000000008B
+t1281770843
+s139
+
+N/Users/nistetsurooy/workspace/KaToracker/Window.cpp
+c000000004C666477000000000000075E
+t1281778807
+s1886
+i"Window.h"
+
+N/Users/nistetsurooy/workspace/KaToracker/Window.h
+c000000004C6660A90000000000000226
+t1281777833
+s550
+i<opencv.hpp>
+i<cstring>
+
+N/Users/nistetsurooy/workspace/KaToracker/WindowUtil.cpp
+c000000004C6645C500000000000000A8
+t1281770949
+s168
+i"WindowUtil.h"
+
+N/Users/nistetsurooy/workspace/KaToracker/WindowUtil.h
+c000000004C664A410000000000000181
+t1281772097
+s385
+i<vector>
+
+N/Users/nistetsurooy/workspace/KaToracker/build/Debug/KaToracker
+t2
+s0
+
+N/Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/Objects-normal/i386/KaToracker.LinkFileList
+c000000004C64B94F0000000000000072
+t1281669455
+s114
+
+N/Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/Objects-normal/i386/main.o
+t1281670027
+s127788
+
+N/Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/Objects-normal/x86_64/ColorSubspace.o
+t1282449920
+s330892
+
+N/Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/Objects-normal/x86_64/KaToracker.LinkFileList
+c000000004C70A1FA000000000000025E
+t1282449914
+s606
+
+N/Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/Objects-normal/x86_64/ParticleFilter.o
+t1282449917
+s227864
+
+N/Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/Objects-normal/x86_64/UIhelper.o
+t2
+s0
+
+N/Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/Objects-normal/x86_64/Window.o
+t1282449920
+s156120
+
+N/Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/Objects-normal/x86_64/WindowUtil.o
+t1281772099
+s150964
+
+N/Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/Objects-normal/x86_64/main.o
+t1282449917
+s248256
+
+N/Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/Objects-normal/x86_64/motionCue.o
+t1282449922
+s204608
+
+N/Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/Objects-normal/x86_64/名称未設定.o
+t2
+s0
+
+N/Users/nistetsurooy/workspace/KaToracker/cv.h
+c000000004C64A7AB0000000000011ABF
+t1281664939
+s72383
+i<chdl.h>
+i"cxcore.h"
+i"cvtypes.h"
+i"cv.hpp"
+i"cvcompat.h"
+
+N/Users/nistetsurooy/workspace/KaToracker/cv.hpp
+c000000004C64A7AB000000000000B6EB
+t1281664939
+s46827
+
+N/Users/nistetsurooy/workspace/KaToracker/cvaux.h
+c000000004C64A7AB0000000000010316
+t1281664939
+s66326
+i"cv.h"
+i"cvaux.hpp"
+i"cvvidsurv.hpp"
+
+N/Users/nistetsurooy/workspace/KaToracker/cvaux.hpp
+c000000004C64A7AB0000000000010ABF
+t1281664939
+s68287
+i<iosfwd>
+
+N/Users/nistetsurooy/workspace/KaToracker/cvcompat.h
+c000000004C64A7AB0000000000009EF5
+t1281664939
+s40693
+i<string.h>
+
+N/Users/nistetsurooy/workspace/KaToracker/cvtypes.h
+c000000004C64A7AB0000000000002DD6
+t1281664939
+s11734
+i<assert.h>
+i<stdlib.h>
+
+N/Users/nistetsurooy/workspace/KaToracker/cvver.h
+c000000004C64A7AB00000000000009E6
+t1281664939
+s2534
+
+N/Users/nistetsurooy/workspace/KaToracker/cvvidsurv.hpp
+c000000004C64A7AC000000000000A410
+t1281664940
+s42000
+i<stdio.h>
+
+N/Users/nistetsurooy/workspace/KaToracker/cxcore.h
+c000000004C64A7AC0000000000013000
+t1281664940
+s77824
+i"ipl.h"
+i"ipl/ipl.h"
+i"cxtypes.h"
+i"cxerror.h"
+i"cvver.h"
+i"cxcore.hpp"
+
+N/Users/nistetsurooy/workspace/KaToracker/cxcore.hpp
+c000000004C64A7AC00000000000144B6
+t1281664940
+s83126
+i"cxmisc.h"
+i<algorithm>
+i<cmath>
+i<complex>
+i<map>
+i<new>
+i<string>
+i<vector>
+i"cxoperations.hpp"
+i"cxmat.hpp"
+i"cxflann.h"
+
+N/Users/nistetsurooy/workspace/KaToracker/cxerror.h
+c000000004C64A7AC000000000000222E
+t1281664940
+s8750
+
+N/Users/nistetsurooy/workspace/KaToracker/cxflann.h
+c000000004C64A7AC0000000000001B18
+t1281664940
+s6936
+
+N/Users/nistetsurooy/workspace/KaToracker/cxmat.hpp
+c000000004C64A7AC0000000000025643
+t1281664940
+s153155
+i<limits.h>
+
+N/Users/nistetsurooy/workspace/KaToracker/cxmisc.h
+c000000004C64A7AC0000000000006D43
+t1281664940
+s27971
+i<limits.h>
+i<malloc.h>
+i<alloca.h>
+i<stdlib.h>
+
+N/Users/nistetsurooy/workspace/KaToracker/cxoperations.hpp
+c000000004C64A7AC0000000000016097
+t1281664940
+s90263
+i<string.h>
+i<limits.h>
+i<ext/atomicity.h>
+i<bits/atomicity.h>
+i"windows.h"
+
+N/Users/nistetsurooy/workspace/KaToracker/cxtypes.h
+c000000004C64A7AC000000000000CF56
+t1281664940
+s53078
+i<assert.h>
+i<stdlib.h>
+i<string.h>
+i<float.h>
+i<stdint.h>
+i<intrin.h>
+i<emmintrin.h>
+i<fastmath.h>
+i<math.h>
+i<ipl.h>
+i<ipl/ipl.h>
+
+N/Users/nistetsurooy/workspace/KaToracker/highgui.h
+c000000004C64A7AC00000000000048A6
+t1281664940
+s18598
+i"cxcore.h"
+i<windows.h>
+i<chdl.h>
+i"highgui.hpp"
+
+N/Users/nistetsurooy/workspace/KaToracker/highgui.hpp
+c000000004C64A7AC00000000000012D7
+t1281664940
+s4823
+
+N/Users/nistetsurooy/workspace/KaToracker/main.cpp
+c000000004C6663CA0000000000000336
+t1281778634
+s822
+i<iostream>
+i<opencv.hpp>
+i"ParticleFilter.h"
+i"Window.h"
+
+N/Users/nistetsurooy/workspace/KaToracker/motionCue.cpp
+c000000004C7092550000000000000248
+t1282445909
+s584
+i"ParticleFilter.h"
+
+N/Users/nistetsurooy/workspace/KaToracker/名称未設定.cpp
+c000000004C65F6A500000000000000A6
+t1281750693
+s166
+i"名称未設定.h"
+
+N/Users/nistetsurooy/workspace/KaToracker/名称未設定.h
+c000000004C65F6A50000000000000086
+t1281750693
+s134
+
+N/opt/local/include/opencv/cv.h
+c000000004BBA8D580000000000011ABF
+t1270517080
+s72383
+i<chdl.h>
+i"cxcore.h"
+i"cvtypes.h"
+i"cv.hpp"
+i"cvcompat.h"
+
+N/opt/local/include/opencv/cv.hpp
+c000000004BBA8D58000000000000B6EB
+t1270517080
+s46827
+
+N/opt/local/include/opencv/cvcompat.h
+c000000004BBA8D580000000000009EF5
+t1270517080
+s40693
+i<string.h>
+
+N/opt/local/include/opencv/cvtypes.h
+c000000004BBA8D580000000000002DD6
+t1270517080
+s11734
+i<assert.h>
+i<stdlib.h>
+
+N/opt/local/include/opencv/cvver.h
+c000000004BBA8D5800000000000009E6
+t1270517080
+s2534
+
+N/opt/local/include/opencv/cxcore.h
+c000000004BBA8D580000000000013000
+t1270517080
+s77824
+i"ipl.h"
+i"ipl/ipl.h"
+i"cxtypes.h"
+i"cxerror.h"
+i"cvver.h"
+i"cxcore.hpp"
+
+N/opt/local/include/opencv/cxcore.hpp
+c000000004BBA8D5800000000000144B6
+t1270517080
+s83126
+i"cxmisc.h"
+i<algorithm>
+i<cmath>
+i<complex>
+i<map>
+i<new>
+i<string>
+i<vector>
+i"cxoperations.hpp"
+i"cxmat.hpp"
+i"cxflann.h"
+
+N/opt/local/include/opencv/cxerror.h
+c000000004BBA8D58000000000000222E
+t1270517080
+s8750
+
+N/opt/local/include/opencv/cxflann.h
+c000000004BBA8D580000000000001B18
+t1270517080
+s6936
+
+N/opt/local/include/opencv/cxmat.hpp
+c000000004BBA8D580000000000025643
+t1270517080
+s153155
+i<limits.h>
+
+N/opt/local/include/opencv/cxmisc.h
+c000000004BBA8D580000000000006D43
+t1270517080
+s27971
+i<limits.h>
+i<malloc.h>
+i<alloca.h>
+i<stdlib.h>
+
+N/opt/local/include/opencv/cxoperations.hpp
+c000000004BBA8D580000000000016097
+t1270517080
+s90263
+i<string.h>
+i<limits.h>
+i<ext/atomicity.h>
+i<bits/atomicity.h>
+i"windows.h"
+
+N/opt/local/include/opencv/cxtypes.h
+c000000004BBA8D58000000000000CF56
+t1270517080
+s53078
+i<assert.h>
+i<stdlib.h>
+i<string.h>
+i<float.h>
+i<stdint.h>
+i<intrin.h>
+i<emmintrin.h>
+i<fastmath.h>
+i<math.h>
+i<ipl.h>
+i<ipl/ipl.h>
+
+N/opt/local/lib/libcv.dylib
+c000000004C64B07900000000002927E0
+t1281667193
+s2697184
+
+N/opt/local/lib/libcvaux.dylib
+c000000004C64B0C3000000000013E898
+t1281667267
+s1304728
+
+N/opt/local/lib/libcxcore.dylib
+c000000004C64AFF300000000002C43A8
+t1281667059
+s2900904
+
+N/opt/local/lib/libhighgui.dylib
+c000000004C64B08B00000000000FCA80
+t1281667211
+s1034880
+
+N/usr/local/include/opencv/cv.h
+c000000004C6170C40000000000000D0D
+t1281454276
+s3341
+
+N/usr/local/include/opencv/cv.hpp
+c000000004C6170C4000000000000096B
+t1281454276
+s2411
+
+N/usr/local/include/opencv/cvaux.h
+c000000004C6170C40000000000000AFC
+t1281454276
+s2812
+
+N/usr/local/include/opencv/cxcore.h
+c000000004C6170C400000000000009D6
+t1281454276
+s2518
+
+N/usr/local/include/opencv/highgui.h
+c000000004C6170C40000000000000902
+t1281454276
+s2306
+
+N/usr/local/include/opencv2/core/core_c.h
+c000000004C6170DB00000000000132CE
+t1281454299
+s78542
+
+N/usr/local/include/opencv2/opencv.hpp
+c000000004C6170C40000000000000B14
+t1281454276
+s2836
+
+N/usr/local/lib/libopencv_calib3d.2.1.1.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/local/lib/libopencv_calib3d.2.1.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/local/lib/libopencv_calib3d.dylib
+c000000004C709F5800000000000761B8
+t1282449240
+s483768
+
+N/usr/local/lib/libopencv_contrib.2.1.1.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/local/lib/libopencv_contrib.2.1.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/local/lib/libopencv_contrib.dylib
+c000000004C709F5A0000000000036068
+t1282449242
+s221288
+
+N/usr/local/lib/libopencv_core.2.1.1.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/local/lib/libopencv_core.2.1.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/local/lib/libopencv_core.dylib
+c000000004C709F5900000000002C8008
+t1282449241
+s2916360
+
+N/usr/local/lib/libopencv_features2d.2.1.1.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/local/lib/libopencv_features2d.2.1.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/local/lib/libopencv_features2d.dylib
+c000000004C709F59000000000008A420
+t1282449241
+s566304
+
+N/usr/local/lib/libopencv_gpu.2.1.1.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/local/lib/libopencv_gpu.2.1.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/local/lib/libopencv_gpu.dylib
+c000000004C709F5A000000000000DC00
+t1282449242
+s56320
+
+N/usr/local/lib/libopencv_highgui.2.1.1.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/local/lib/libopencv_highgui.2.1.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/local/lib/libopencv_highgui.dylib
+c000000004C709F5900000000001401B0
+t1282449241
+s1311152
+
+N/usr/local/lib/libopencv_imgproc.2.1.1.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/local/lib/libopencv_imgproc.2.1.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/local/lib/libopencv_imgproc.dylib
+c000000004C709F5A00000000001D2B58
+t1282449242
+s1911640
+
+N/usr/local/lib/libopencv_legacy.2.1.1.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/local/lib/libopencv_legacy.2.1.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/local/lib/libopencv_legacy.dylib
+c000000004C709F5A0000000000086328
+t1282449242
+s549672
+
+N/usr/local/lib/libopencv_ml.2.1.1.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/local/lib/libopencv_ml.2.1.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/local/lib/libopencv_ml.dylib
+c000000004C709F5A0000000000065EA0
+t1282449242
+s417440
+
+N/usr/local/lib/libopencv_objdetect.2.1.1.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/local/lib/libopencv_objdetect.2.1.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/local/lib/libopencv_objdetect.dylib
+c000000004C709F5A000000000003B2B8
+t1282449242
+s242360
+
+N/usr/local/lib/libopencv_video.2.1.1.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/local/lib/libopencv_video.2.1.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/local/lib/libopencv_video.dylib
+c000000004C709F5A000000000007D910
+t1282449242
+s514320
+
+N/usr/local/lib/libzinnia.0.dylib
+c000000004C1CD90F0000000000055838
+t1276958991
+s350264
+
+N/usr/local/lib/libzinnia.a
+c000000004C1CD90F0000000000075530
+t1276958991
+s480560
+
+N/usr/local/lib/libzinnia.dylib
+c000000004C1CD90F0000000000055838
+t1276958991
+s350264
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies304142714#304142714#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/KaToracker.build/Debug/KaToracker.build/Objects-normal/i386/main.o /Users/nistetsurooy/workspace/KaToracker/main.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s303362826.728890
+e303362827.748243
+r1
+xCompileC
+xbuild/KaToracker.build/Debug/KaToracker.build/Objects-normal/i386/main.o
+x/Users/nistetsurooy/workspace/KaToracker/main.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/nistetsurooy/workspace/KaToracker/main.cpp303362826#303362827#0(0"0(0#0#49"/Users/nistetsurooy/workspace/KaToracker/main.cpp4300885448#1436"    cd /Users/nistetsurooy/workspace/KaToracker    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D_GLIBCXX_DEBUG=1 -D_GLIBCXX_DEBUG_PEDANTIC=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/KaToracker-generated-files.hmap -I/Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/KaToracker-own-target-headers.hmap -I/Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/KaToracker-all-target-headers.hmap -iquote /Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/KaToracker-project-headers.hmap -F/Users/nistetsurooy/workspace/KaToracker/build/Debug -I/Users/nistetsurooy/workspace/KaToracker/build/Debug/include -I/opt/local/include/opencv -I/Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/DerivedSources/i386 -I/Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/DerivedSources -c /Users/nistetsurooy/workspace/KaToracker/main.cpp -o /Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/Objects-normal/i386/main.o0#
+
+CCompileC build/KaToracker.build/Debug/KaToracker.build/Objects-normal/x86_64/ColorSubspace.o /Users/nistetsurooy/workspace/KaToracker/ColorSubspace.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s304142717.880693
+e304142720.747927
+r1
+xCompileC
+xbuild/KaToracker.build/Debug/KaToracker.build/Objects-normal/x86_64/ColorSubspace.o
+x/Users/nistetsurooy/workspace/KaToracker/ColorSubspace.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/nistetsurooy/workspace/KaToracker/ColorSubspace.cpp304142717#304142720#0(0"0(0#0#58"/Users/nistetsurooy/workspace/KaToracker/ColorSubspace.cpp4300885448#1935"    cd /Users/nistetsurooy/workspace/KaToracker    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D_GLIBCXX_DEBUG=1 -D_GLIBCXX_DEBUG_PEDANTIC=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/KaToracker-generated-files.hmap -I/Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/KaToracker-own-target-headers.hmap -I/Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/KaToracker-all-target-headers.hmap -iquote /Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/KaToracker-project-headers.hmap -F/Users/nistetsurooy/workspace/KaToracker/build/Debug -I/Users/nistetsurooy/workspace/KaToracker/build/Debug/include -I/usr/local/include -I/usr/local/include/opencv -I/usr/local/include/opencv2 -I/usr/local/include/zinnia -I/usr/local/include/opencv2/calib3d -I/usr/local/include/opencv2/contrib -I/usr/local/include/opencv2/core -I/usr/local/include/opencv2/features2d -I/usr/local/include/opencv2/gpu -I/usr/local/include/opencv2/highgui -I/usr/local/include/opencv2/imgproc -I/usr/local/include/opencv2/legacy -I/usr/local/include/opencv2/ml -I/usr/local/include/opencv2/objdetect -I/usr/local/include/opencv2/video -I/Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/DerivedSources/x86_64 -I/Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/DerivedSources -c /Users/nistetsurooy/workspace/KaToracker/ColorSubspace.cpp -o /Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/Objects-normal/x86_64/ColorSubspace.o0#
+
+CCompileC build/KaToracker.build/Debug/KaToracker.build/Objects-normal/x86_64/ParticleFilter.o /Users/nistetsurooy/workspace/KaToracker/ParticleFilter.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s304142714.780740
+e304142717.782312
+r1
+xCompileC
+xbuild/KaToracker.build/Debug/KaToracker.build/Objects-normal/x86_64/ParticleFilter.o
+x/Users/nistetsurooy/workspace/KaToracker/ParticleFilter.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/nistetsurooy/workspace/KaToracker/ParticleFilter.cpp304142714#304142717#0(0"0(0#0#59"/Users/nistetsurooy/workspace/KaToracker/ParticleFilter.cpp4300885448#1937"    cd /Users/nistetsurooy/workspace/KaToracker    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D_GLIBCXX_DEBUG=1 -D_GLIBCXX_DEBUG_PEDANTIC=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/KaToracker-generated-files.hmap -I/Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/KaToracker-own-target-headers.hmap -I/Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/KaToracker-all-target-headers.hmap -iquote /Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/KaToracker-project-headers.hmap -F/Users/nistetsurooy/workspace/KaToracker/build/Debug -I/Users/nistetsurooy/workspace/KaToracker/build/Debug/include -I/usr/local/include -I/usr/local/include/opencv -I/usr/local/include/opencv2 -I/usr/local/include/zinnia -I/usr/local/include/opencv2/calib3d -I/usr/local/include/opencv2/contrib -I/usr/local/include/opencv2/core -I/usr/local/include/opencv2/features2d -I/usr/local/include/opencv2/gpu -I/usr/local/include/opencv2/highgui -I/usr/local/include/opencv2/imgproc -I/usr/local/include/opencv2/legacy -I/usr/local/include/opencv2/ml -I/usr/local/include/opencv2/objdetect -I/usr/local/include/opencv2/video -I/Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/DerivedSources/x86_64 -I/Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/DerivedSources -c /Users/nistetsurooy/workspace/KaToracker/ParticleFilter.cpp -o /Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/Objects-normal/x86_64/ParticleFilter.o0#
+
+CCompileC build/KaToracker.build/Debug/KaToracker.build/Objects-normal/x86_64/UIhelper.o /Users/nistetsurooy/workspace/KaToracker/UIhelper.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s303463929.823188
+e303463929.907281
+r0
+xCompileC
+xbuild/KaToracker.build/Debug/KaToracker.build/Objects-normal/x86_64/UIhelper.o
+x/Users/nistetsurooy/workspace/KaToracker/UIhelper.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/nistetsurooy/workspace/KaToracker/UIhelper.cpp:10:22: error: UIhelper.h: No such file or directory
+lSLF07#2@61"Compile /Users/nistetsurooy/workspace/KaToracker/UIhelper.cpp303463929#303463929#0(106"/Users/nistetsurooy/workspace/KaToracker/UIhelper.cpp:10:22: error: UIhelper.h: No such file or directory1(4@37"UIhelper.h: No such file or directory303463929#0#106#0(6@53"/Users/nistetsurooy/workspace/KaToracker/UIhelper.cpp303463643#10#0#10#0#28"*: No such file or directory0(0#0#53"/Users/nistetsurooy/workspace/KaToracker/UIhelper.cpp4300885448#1925"    cd /Users/nistetsurooy/workspace/KaToracker    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D_GLIBCXX_DEBUG=1 -D_GLIBCXX_DEBUG_PEDANTIC=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/KaToracker-generated-files.hmap -I/Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/KaToracker-own-target-headers.hmap -I/Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/KaToracker-all-target-headers.hmap -iquote /Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/KaToracker-project-headers.hmap -F/Users/nistetsurooy/workspace/KaToracker/build/Debug -I/Users/nistetsurooy/workspace/KaToracker/build/Debug/include -I/usr/local/include -I/usr/local/include/opencv -I/usr/local/include/opencv2 -I/usr/local/include/zinnia -I/usr/local/include/opencv2/calib3d -I/usr/local/include/opencv2/contrib -I/usr/local/include/opencv2/core -I/usr/local/include/opencv2/features2d -I/usr/local/include/opencv2/gpu -I/usr/local/include/opencv2/highgui -I/usr/local/include/opencv2/imgproc -I/usr/local/include/opencv2/legacy -I/usr/local/include/opencv2/ml -I/usr/local/include/opencv2/objdetect -I/usr/local/include/opencv2/video -I/Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/DerivedSources/x86_64 -I/Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/DerivedSources -c /Users/nistetsurooy/workspace/KaToracker/UIhelper.cpp -o /Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/Objects-normal/x86_64/UIhelper.o1#
+
+CCompileC build/KaToracker.build/Debug/KaToracker.build/Objects-normal/x86_64/Window.o /Users/nistetsurooy/workspace/KaToracker/Window.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s304142717.782450
+e304142720.329148
+r1
+xCompileC
+xbuild/KaToracker.build/Debug/KaToracker.build/Objects-normal/x86_64/Window.o
+x/Users/nistetsurooy/workspace/KaToracker/Window.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/nistetsurooy/workspace/KaToracker/Window.cpp304142717#304142720#0(0"0(0#0#51"/Users/nistetsurooy/workspace/KaToracker/Window.cpp4300885448#1921"    cd /Users/nistetsurooy/workspace/KaToracker    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D_GLIBCXX_DEBUG=1 -D_GLIBCXX_DEBUG_PEDANTIC=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/KaToracker-generated-files.hmap -I/Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/KaToracker-own-target-headers.hmap -I/Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/KaToracker-all-target-headers.hmap -iquote /Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/KaToracker-project-headers.hmap -F/Users/nistetsurooy/workspace/KaToracker/build/Debug -I/Users/nistetsurooy/workspace/KaToracker/build/Debug/include -I/usr/local/include -I/usr/local/include/opencv -I/usr/local/include/opencv2 -I/usr/local/include/zinnia -I/usr/local/include/opencv2/calib3d -I/usr/local/include/opencv2/contrib -I/usr/local/include/opencv2/core -I/usr/local/include/opencv2/features2d -I/usr/local/include/opencv2/gpu -I/usr/local/include/opencv2/highgui -I/usr/local/include/opencv2/imgproc -I/usr/local/include/opencv2/legacy -I/usr/local/include/opencv2/ml -I/usr/local/include/opencv2/objdetect -I/usr/local/include/opencv2/video -I/Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/DerivedSources/x86_64 -I/Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/DerivedSources -c /Users/nistetsurooy/workspace/KaToracker/Window.cpp -o /Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/Objects-normal/x86_64/Window.o0#
+
+CCompileC build/KaToracker.build/Debug/KaToracker.build/Objects-normal/x86_64/WindowUtil.o /Users/nistetsurooy/workspace/KaToracker/WindowUtil.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s303464897.705664
+e303464899.235723
+r1
+xCompileC
+xbuild/KaToracker.build/Debug/KaToracker.build/Objects-normal/x86_64/WindowUtil.o
+x/Users/nistetsurooy/workspace/KaToracker/WindowUtil.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/nistetsurooy/workspace/KaToracker/WindowUtil.cpp303464897#303464899#0(0"0(0#0#55"/Users/nistetsurooy/workspace/KaToracker/WindowUtil.cpp4300885448#1929"    cd /Users/nistetsurooy/workspace/KaToracker    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D_GLIBCXX_DEBUG=1 -D_GLIBCXX_DEBUG_PEDANTIC=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/KaToracker-generated-files.hmap -I/Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/KaToracker-own-target-headers.hmap -I/Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/KaToracker-all-target-headers.hmap -iquote /Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/KaToracker-project-headers.hmap -F/Users/nistetsurooy/workspace/KaToracker/build/Debug -I/Users/nistetsurooy/workspace/KaToracker/build/Debug/include -I/usr/local/include -I/usr/local/include/opencv -I/usr/local/include/opencv2 -I/usr/local/include/zinnia -I/usr/local/include/opencv2/calib3d -I/usr/local/include/opencv2/contrib -I/usr/local/include/opencv2/core -I/usr/local/include/opencv2/features2d -I/usr/local/include/opencv2/gpu -I/usr/local/include/opencv2/highgui -I/usr/local/include/opencv2/imgproc -I/usr/local/include/opencv2/legacy -I/usr/local/include/opencv2/ml -I/usr/local/include/opencv2/objdetect -I/usr/local/include/opencv2/video -I/Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/DerivedSources/x86_64 -I/Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/DerivedSources -c /Users/nistetsurooy/workspace/KaToracker/WindowUtil.cpp -o /Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/Objects-normal/x86_64/WindowUtil.o0#
+
+CCompileC build/KaToracker.build/Debug/KaToracker.build/Objects-normal/x86_64/main.o /Users/nistetsurooy/workspace/KaToracker/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s304142714.779459
+e304142717.880575
+r1
+xCompileC
+xbuild/KaToracker.build/Debug/KaToracker.build/Objects-normal/x86_64/main.o
+x/Users/nistetsurooy/workspace/KaToracker/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/nistetsurooy/workspace/KaToracker/main.cpp304142714#304142717#0(0"0(0#0#49"/Users/nistetsurooy/workspace/KaToracker/main.cpp4300885448#1917"    cd /Users/nistetsurooy/workspace/KaToracker    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D_GLIBCXX_DEBUG=1 -D_GLIBCXX_DEBUG_PEDANTIC=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/KaToracker-generated-files.hmap -I/Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/KaToracker-own-target-headers.hmap -I/Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/KaToracker-all-target-headers.hmap -iquote /Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/KaToracker-project-headers.hmap -F/Users/nistetsurooy/workspace/KaToracker/build/Debug -I/Users/nistetsurooy/workspace/KaToracker/build/Debug/include -I/usr/local/include -I/usr/local/include/opencv -I/usr/local/include/opencv2 -I/usr/local/include/zinnia -I/usr/local/include/opencv2/calib3d -I/usr/local/include/opencv2/contrib -I/usr/local/include/opencv2/core -I/usr/local/include/opencv2/features2d -I/usr/local/include/opencv2/gpu -I/usr/local/include/opencv2/highgui -I/usr/local/include/opencv2/imgproc -I/usr/local/include/opencv2/legacy -I/usr/local/include/opencv2/ml -I/usr/local/include/opencv2/objdetect -I/usr/local/include/opencv2/video -I/Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/DerivedSources/x86_64 -I/Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/DerivedSources -c /Users/nistetsurooy/workspace/KaToracker/main.cpp -o /Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/Objects-normal/x86_64/main.o0#
+
+CCompileC build/KaToracker.build/Debug/KaToracker.build/Objects-normal/x86_64/motionCue.o /Users/nistetsurooy/workspace/KaToracker/motionCue.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s304142720.329308
+e304142722.195803
+r1
+xCompileC
+xbuild/KaToracker.build/Debug/KaToracker.build/Objects-normal/x86_64/motionCue.o
+x/Users/nistetsurooy/workspace/KaToracker/motionCue.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/nistetsurooy/workspace/KaToracker/motionCue.cpp304142720#304142722#0(0"0(0#0#54"/Users/nistetsurooy/workspace/KaToracker/motionCue.cpp4300885448#1927"    cd /Users/nistetsurooy/workspace/KaToracker    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D_GLIBCXX_DEBUG=1 -D_GLIBCXX_DEBUG_PEDANTIC=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/KaToracker-generated-files.hmap -I/Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/KaToracker-own-target-headers.hmap -I/Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/KaToracker-all-target-headers.hmap -iquote /Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/KaToracker-project-headers.hmap -F/Users/nistetsurooy/workspace/KaToracker/build/Debug -I/Users/nistetsurooy/workspace/KaToracker/build/Debug/include -I/usr/local/include -I/usr/local/include/opencv -I/usr/local/include/opencv2 -I/usr/local/include/zinnia -I/usr/local/include/opencv2/calib3d -I/usr/local/include/opencv2/contrib -I/usr/local/include/opencv2/core -I/usr/local/include/opencv2/features2d -I/usr/local/include/opencv2/gpu -I/usr/local/include/opencv2/highgui -I/usr/local/include/opencv2/imgproc -I/usr/local/include/opencv2/legacy -I/usr/local/include/opencv2/ml -I/usr/local/include/opencv2/objdetect -I/usr/local/include/opencv2/video -I/Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/DerivedSources/x86_64 -I/Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/DerivedSources -c /Users/nistetsurooy/workspace/KaToracker/motionCue.cpp -o /Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/Objects-normal/x86_64/motionCue.o0#
+
+CCompileC build/KaToracker.build/Debug/KaToracker.build/Objects-normal/x86_64/名称未設定.o /Users/nistetsurooy/workspace/KaToracker/名称未設定.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CLd /Users/nistetsurooy/workspace/KaToracker/build/Debug/KaToracker normal i386
+s303362827.748318
+e303362827.778029
+r0
+xLd
+x/Users/nistetsurooy/workspace/KaToracker/build/Debug/KaToracker
+xnormal
+xi386
+old: warning: in /opt/local/lib/libcv.dylib, file is not of required architecture
+old: warning: in /opt/local/lib/libcvaux.dylib, file is not of required architecture
+old: warning: in /opt/local/lib/libcxcore.dylib, file is not of required architecture
+old: warning: in /opt/local/lib/libhighgui.dylib, file is not of required architecture
+oUndefined symbols:
+o  "cv::fastFree(void*)", referenced from:
+o      cv::Mat::release()    in main.o
+o  "cv::namedWindow(std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, int)", referenced from:
+o      _main in main.o
+o  "cv::fastMalloc(unsigned long)", referenced from:
+o      cv::Mat::create(int, int, int)in main.o
+o  "cv::format(char const*, ...)", referenced from:
+o      cv::Exception::formatMessage()     in main.o
+o      cv::Exception::formatMessage()     in main.o
+o  "cv::imshow(std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, cv::Mat const&)", referenced from:
+o      _main in main.o
+o  "_cvWaitKey", referenced from:
+o      _main in main.o
+o  "cv::error(cv::Exception const&)", referenced from:
+o      cv::Mat::create(int, int, int)in main.o
+old: symbol(s) not found
+ocollect2: ld returned 1 exit status
+lSLF07#2@68"Link /Users/nistetsurooy/workspace/KaToracker/build/Debug/KaToracker303362827#303362827#0(1195"ld: warning: in /opt/local/lib/libcv.dylib, file is not of required architectureld: warning: in /opt/local/lib/libcvaux.dylib, file is not of required architectureld: warning: in /opt/local/lib/libcxcore.dylib, file is not of required architectureld: warning: in /opt/local/lib/libhighgui.dylib, file is not of required architectureUndefined symbols:  "cv::fastFree(void*)", referenced from:      cv::Mat::release()    in main.o  "cv::namedWindow(std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, int)", referenced from:      _main in main.o  "cv::fastMalloc(unsigned long)", referenced from:      cv::Mat::create(int, int, int)in main.o  "cv::format(char const*, ...)", referenced from:      cv::Exception::formatMessage()     in main.o      cv::Exception::formatMessage()     in main.o  "cv::imshow(std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, cv::Mat const&)", referenced from:      _main in main.o  "_cvWaitKey", referenced from:      _main in main.o  "cv::error(cv::Exception const&)", referenced from:      cv::Mat::create(int, int, int)in main.old: symbol(s) not foundcollect2: ld returned 1 exit status21(22@67"In /opt/local/lib/libcv.dylib, file is not of required architecture303362827#0#81#0(6@0"303362827#0#0#0#0#0"0(22@70"In /opt/local/lib/libcvaux.dylib, file is not of required architecture303362827#81#84#0(6@0"303362827#0#0#0#0#0"0(22@71"In /opt/local/lib/libcxcore.dylib, file is not of required architecture303362827#165#85#0(6@0"303362827#0#0#0#0#0"0(22@72"In /opt/local/lib/libhighgui.dylib, file is not of required architecture303362827#250#86#0(6@0"303362827#0#0#0#0#0"0(4@39""cv::fastFree(void*)", referenced from:303362827#355#42#0(6@0"303362827#0#0#0#0#0"0(13@31"Cv::Mat::release()    in main.o303362827#397#38#0(6@0"303362827#0#0#0#0#0"0(4@119""cv::namedWindow(std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, int)", referenced from:303362827#435#122#0(6@0"303362827#0#0#0#0#0"0(13@15"_main in main.o303362827#557#22#0(6@0"303362827#0#0#0#0#0"0(4@49""cv::fastMalloc(unsigned long)", referenced from:303362827#579#52#0(6@0"303362827#0#0#0#0#0"0(13@39"Cv::Mat::create(int, int, int)in main.o303362827#631#46#0(6@0"303362827#0#0#0#0#0"0(4@48""cv::format(char const*, ...)", referenced from:303362827#677#51#0(6@0"303362827#0#0#0#0#0"0(13@44"Cv::Exception::formatMessage()     in main.o303362827#728#51#0(6@0"303362827#0#0#0#0#0"0(13@44"Cv::Exception::formatMessage()     in main.o303362827#779#51#0(6@0"303362827#0#0#0#0#0"0(4@125""cv::imshow(std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, cv::Mat const&)", referenced from:303362827#830#128#0(6@0"303362827#0#0#0#0#0"0(13@15"_main in main.o303362827#958#22#0(6@0"303362827#0#0#0#0#0"0(4@30""_cvWaitKey", referenced from:303362827#980#33#0(6@0"303362827#0#0#0#0#0"0(13@15"_main in main.o303362827#1013#22#0(6@0"303362827#0#0#0#0#0"0(4@51""cv::error(cv::Exception const&)", referenced from:303362827#1035#54#0(6@0"303362827#0#0#0#0#0"0(13@39"Cv::Mat::create(int, int, int)in main.o303362827#1089#46#0(6@0"303362827#0#0#0#0#0"0(13@19"Symbol(s) not found303362827#1135#24#0(6@0"303362827#0#0#0#0#0"0(13@35"Collect2: ld returned 1 exit status303362827#1159#36#0(6@0"303362827#0#0#0#0#0"0(0#0#0"4300885448#565"    cd /Users/nistetsurooy/workspace/KaToracker    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/nistetsurooy/workspace/KaToracker/build/Debug -L/opt/local/lib -F/Users/nistetsurooy/workspace/KaToracker/build/Debug -filelist /Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/Objects-normal/i386/KaToracker.LinkFileList -mmacosx-version-min=10.6 -lcv -lcvaux -lcxcore -lhighgui -o /Users/nistetsurooy/workspace/KaToracker/build/Debug/KaToracker1#
+
+CLd /Users/nistetsurooy/workspace/KaToracker/build/Debug/KaToracker normal x86_64
+s304142722.195973
+e304142722.246372
+r0
+xLd
+x/Users/nistetsurooy/workspace/KaToracker/build/Debug/KaToracker
+xnormal
+xx86_64
+oUndefined symbols:
+o  "cv::goodFeaturesToTrack(cv::Mat const&, std::__debug::vector<cv::Point_<float>, std::allocator<cv::Point_<float> > >&, int, double, double, cv::Mat const&, int, bool, double)", referenced from:
+o      motionCue::initialize(cv::Mat&)       in motionCue.o
+old: symbol(s) not found
+ocollect2: ld returned 1 exit status
+lSLF07#2@68"Link /Users/nistetsurooy/workspace/KaToracker/build/Debug/KaToracker304142722#304142722#0(335"Undefined symbols:  "cv::goodFeaturesToTrack(cv::Mat const&, std::__debug::vector<cv::Point_<float>, std::allocator<cv::Point_<float> > >&, int, double, double, cv::Mat const&, int, bool, double)", referenced from:      motionCue::initialize(cv::Mat&)       in motionCue.old: symbol(s) not foundcollect2: ld returned 1 exit status4(4@194""cv::goodFeaturesToTrack(cv::Mat const&, std::__debug::vector<cv::Point_<float>, std::allocator<cv::Point_<float> > >&, int, double, double, cv::Mat const&, int, bool, double)", referenced from:304142722#19#197#0(6@0"304142722#0#0#0#0#0"0(13@52"MotionCue::initialize(cv::Mat&)       in motionCue.o304142722#216#59#0(6@0"304142722#0#0#0#0#0"0(13@19"Symbol(s) not found304142722#275#24#0(6@0"304142722#0#0#0#0#0"0(13@35"Collect2: ld returned 1 exit status304142722#299#36#0(6@0"304142722#0#0#0#0#0"0(0#0#0"4300885448#714"    cd /Users/nistetsurooy/workspace/KaToracker    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/nistetsurooy/workspace/KaToracker/build/Debug -L/opt/local/lib -F/Users/nistetsurooy/workspace/KaToracker/build/Debug -filelist /Users/nistetsurooy/workspace/KaToracker/build/KaToracker.build/Debug/KaToracker.build/Objects-normal/x86_64/KaToracker.LinkFileList -mmacosx-version-min=10.6 -lopencv_calib3d -lopencv_contrib -lopencv_core -lopencv_features2d -lopencv_gpu -lopencv_highgui -lopencv_imgproc -lopencv_legacy -lopencv_ml -lopencv_objdetect -lopencv_video -o /Users/nistetsurooy/workspace/KaToracker/build/Debug/KaToracker1#
+
